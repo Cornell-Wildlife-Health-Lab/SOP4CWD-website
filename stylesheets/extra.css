@@ -1,0 +1,35 @@
+a {
+  color: #607d8b;
+  font-weight: bold; /* Make links bold */
+  
+}
+
+p a {
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #607d8b;
+  text-decoration: underline;
+}
+
+
+.md-tabs__link {
+  color:#fff;
+  opacity:8;
+}
+
+:root {
+  --md-primary-fg-color:        #37474f; /* dark blue */
+  --md-primary-fg-color--light: #607d8b; /* light blue */
+  --md-primary-fg-color--dark:  #607d8b;
+  --md-accent-fg-color: #B36200;
+}
+.md-banner__inner {
+  margin: 0;
+}
+
+.md-nav__link {
+  color: #607d8b;
+  font-weight: bold; /* Make links bold */
+}
