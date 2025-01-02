@@ -21,18 +21,15 @@ The [**Disease Cluster Analysis Data Export**](DiseaseClusterAnalysisDataExport.
 
 The SOP4CWD [modeling team](../../modeling.md) is continually working on developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. 
 
-* [Sample Size Model for a Single Cluster](SampleSizeModelSingleCluster.md)
 * [Disease Control Strategies Model](DiseaseControlStrategiesModel.md)
 * [Home Range Contamination Model](HomeRangeContaminationModel.md)
-* Outbreak Response Tool
-* Sample Size Planning (Independent Subjects)
-* Sample Size Planning (Clustered Groups)
+* [Sample Size for declaring freedom from disease in a clustered population](FreedomFromDiseaseClusteredPopulation.md)
 * Surveillance and Prevention Allocation Model
 * Positive Predictor Model
 * Agent-Based Models
 * Spread Model Data Export
+* Outbreak Response Tool
 
-
-<center>![Deer4]./Deer4.jpg</center>
-<center><figcaption>Photo credit: Shutterstock </figcaption></center>
+<center>![Deer4](../../assets/Deer4.jpg)
+<figcaption>Photo credit: Shutterstock </figcaption></center>
 

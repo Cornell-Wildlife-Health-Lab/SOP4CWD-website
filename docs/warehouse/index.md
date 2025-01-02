@@ -5,15 +5,15 @@ description: This is a description of the page.
 
 # The CWD Data Warehouse
 
-The [CWD Data Warehouse](https://cwd-data.org/login){:target="_blank"} is an online platform for CWD surveillance planning, data management, and data sharing across jurisdictional boundaries. It is available at no cost to state (US and Mexico), provincial (Canada), and tribal wildlife agencies in North America. The CWD Data Warehouse was developed in partnership with DJ Case & Associates. 
+The [CWD Data Warehouse](https://cwd-data.org/login){target="_blank"} is an online platform for CWD surveillance planning, data management, and data sharing across jurisdictional boundaries. It is available at no cost to state (US and Mexico), provincial (Canada), and tribal wildlife agencies in North America. The CWD Data Warehouse was developed in partnership with DJ Case & Associates. 
 
-<center>[**Enter the CWD Data Warehouse**](https://cwd-data.org/login){:target="_blank" .md-button .md-button--primary }</center>
+<center>[**Enter the CWD Data Warehouse**](https://cwd-data.org/login){target="_blank" .md-button .md-button--primary }</center>
 
 ## A Collaborative Platform
 
 The CWD Data Warehouse facilitates interagency data-sharing, increases situational awareness, and informs wildlife health decision-making. This is accomplished through surveillance data standardization across data providers, and through a carefully designed system that allows agencies to share critically important surveillance data with neighboring wildlife agencies, while also securing and restricting access to sensitive or confidential data. 
 
-One key to the success of the CWD Data Warehouse has been a well-defined [Data Use Agreement](dua.md) that provides clear guardrails for data access, use, and sharing. All wildlife agencies that join the CWD Data Warehouse are required to approve this DUA which provides protection for all participating wildlife agencies.
+One key to the success of the CWD Data Warehouse has been a well-defined [Data Use Agreement](warehouse-docs.md) that provides clear guardrails for data access, use, and sharing. All wildlife agencies that join the CWD Data Warehouse are required to approve this DUA which provides protection for all participating wildlife agencies.
 
 ## The power of mathematics and data science
 
@@ -39,7 +39,7 @@ Although the Warehouse is not open to the public, wildlife agencies can use the 
 
 ## Play in the Sandbox
 
-A [test environment](https://test.cwd-data.org/login){:target="_blank"}, otherwise known as a "sandbox", is available to help prospective users explore the CWD Data Warehouse and determine if the Warehouse will be useful to their CWD surveillance and management programs prior to joining the CWD Data Warehouse. Please [contact SOP4CWD](../contact.md) to request an account.
+A [test environment](https://test.cwd-data.org/login){target="_blank"}, otherwise known as a "sandbox", is available to help prospective users explore the CWD Data Warehouse and determine if the Warehouse will be useful to their CWD surveillance and management programs prior to joining the CWD Data Warehouse. Please [contact SOP4CWD](../contact.md) to request an account.
 
-<center>![Data Warehouse Photo](../assets/sandbox_screenshot.jpg)</center>
-<center><figcaption>CWD Data Warehouse Sandbox Environment</figcaption></center>
+<center>![Data Warehouse Photo](../assets/sandbox_screenshot.jpg)
+<figcaption>CWD Data Warehouse Sandbox Environment</figcaption></center>

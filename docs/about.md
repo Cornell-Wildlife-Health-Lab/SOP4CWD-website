@@ -1,6 +1,6 @@
 ---
 title: About SOP4CWD
-description: This is a description of the page.
+description: About the Effort
 ---
 
 # Welcome to the Surveillance Optimization Project for Chronic Wasting Disease

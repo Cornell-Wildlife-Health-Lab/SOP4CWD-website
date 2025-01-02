@@ -24,12 +24,12 @@ nav:
         - Epizootic Risk Model:  warehouse/models/EpizooticRiskModel.md
         - Prevalence Estimator Data Export:  warehouse/models/PrevalenceEstimatorDataExport.md
         - Disease Cluster Analysis Data Export: warehouse/models/DiseaseClusterAnalysisDataExport.md
+        - Sample Size for declaring freedom from disease in a clustered population: warehouse/models/FreedomFromDiseaseClusteredPopulation.md
         - In Development:
-          - Sample Size Model for a Single Cluster: warehouse/models/SampleSizeModelSingleCluster.md
           - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
           - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
     - Visualizations: warehouse/viz.md
-    - Supporting documents: warehouse/dua.md
+    - Supporting documents: warehouse/warehouse-docs.md
   - Modeling Team: modeling.md
   - Research: research.md
   - Publications: publications.md
