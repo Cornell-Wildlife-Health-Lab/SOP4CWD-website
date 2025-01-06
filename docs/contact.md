@@ -19,4 +19,4 @@ Please send us an email to
 
 * Share your ideas about how we can build better tools and services in the CWD Data Warehouse.
 
-<center>[**Email us at sop4cwd@cornell.edu**](mailto:sop4cwd@cornell.edu){ .md-button .md-button--primary }<center>
+<center>[Email us at sop4cwd@cornell.edu](mailto:sop4cwd@cornell.edu){.md-button .md-button--primary}</center>

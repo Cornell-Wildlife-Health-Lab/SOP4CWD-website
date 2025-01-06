@@ -3,7 +3,7 @@ title: Join SOP4CWD
 description: This is a description of the page.
 ---
 
-# **Become a SOP4CWD Partner!**
+# Become a SOP4CWD Partner!
 
 ## Wildlife Agencies
 
@@ -17,4 +17,4 @@ All participating agencies must approve the CWD Data Warehouse Data Use Agreemen
 
 The landscape of CWD is constantly changing necessitating ongoing research into how to predict where it will emerge and manage outbreaks. CWD modelers and researchers are welcome to join the SOP4CWD collaboration to help address these challenges and to benefit from the wealth of data stored in the CWD Data Warehouse. The only prerequisite for joining the wildlife health statistics and modeling team is the willingness to aid in the development of novel tools that will simultaneously advance the science of wildlife health and meet the urgent needs of our agency partners. 
 
-<center>[**Contact SOP4CWD to join the collaboration!**](contact.md){ .md-button .md-button--primary }</center>
+<center>[Contact SOP4CWD to join the collaboration!](contact.md){.md-button .md-button--primary}</center>

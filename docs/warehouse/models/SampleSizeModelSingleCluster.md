@@ -23,8 +23,8 @@ The Sample Size Model for a Single Cluster is used to plan a sampling scheme to 
 ## Outputs: 
 * The number of samples needed in the population of interest to ensure there is a high probability that disease prevalence is at or below 1%.
 
-<center>![Deer6](../../assets/Deer6.jpg)</center>
-<center><figcaption>Photo credit: Art Kirsch </figcaption></center>
+<center>![Deer6](../../assets/Deer6.jpg)
+<figcaption>Photo credit: Art Kirsch </figcaption></center>
 
-For more details, go to the [CWD Data Warehouse User Manual: Sample Size Model for a Single Cluster.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/sample-size-single.html){:target="_blank"}
+For more details, go to the [CWD Data Warehouse User Manual: Sample Size Model for a Single Cluster.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/sample-size-single.html){target="_blank"}
 
