@@ -1,5 +1,5 @@
 site_name: SOP4CWD
-site_url: ''
+site_url: 'https://sop4cwd.org'
 theme:
   name: material
   features:
@@ -21,13 +21,17 @@ nav:
     - Models: 
         - warehouse/models/index.md
         - Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModel.md
-        - Epizootic Risk Model:  warehouse/models/EpizooticRiskModel.md
-        - Prevalence Estimator Data Export:  warehouse/models/PrevalenceEstimatorDataExport.md
+        - Epizootic Risk Model: warehouse/models/EpizooticRiskModel.md
+        - Prevalence Estimator Data Export: warehouse/models/PrevalenceEstimatorDataExport.md
         - Disease Cluster Analysis Data Export: warehouse/models/DiseaseClusterAnalysisDataExport.md
         - Sample Size for declaring freedom from disease in a clustered population: warehouse/models/FreedomFromDiseaseClusteredPopulation.md
         - In Development:
-          - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
           - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
+          - Surveillance and Prevention Allocation Model: warehouse\models\SurveillencePreventionAllocationModel.md
+          - Positive Predictor Model: warehouse\models\PositivePredictorModel.md
+          - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
+          - Outbreak Response Tool: warehouse\models\OutbreakResponseTool.md
+          - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
     - Visualizations: warehouse/viz.md
     - Supporting documents: warehouse/warehouse-docs.md
   - Modeling Team: modeling.md
