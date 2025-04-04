@@ -58,4 +58,5 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra:
   generator: false
+  CNAME: sop4cwd.org
 copyright: Copyright &copy; 2024 Cornell University
