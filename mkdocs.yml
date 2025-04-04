@@ -21,17 +21,22 @@ nav:
     - Models: 
         - warehouse/models/index.md
         - Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModel.md
+        - Sample Size for Multiple Groups Model: warehouse/models/FreedomFromDiseaseClusteredPopulation.md
+        - Statistical Sample Quotas using Clustering: warehouse/models/StatisticalSampleQuotas.md
         - Epizootic Risk Model: warehouse/models/EpizooticRiskModel.md
         - Prevalence Estimator Data Export: warehouse/models/PrevalenceEstimatorDataExport.md
-        - Disease Cluster Analysis Data Export: warehouse/models/DiseaseClusterAnalysisDataExport.md
-        - Sample Size for declaring freedom from disease in a clustered population: warehouse/models/FreedomFromDiseaseClusteredPopulation.md
+        - Disease Cluster Analysis Data Export: warehouse\models/DiseaseClusterAnalysisDataExport.md
         - In Development:
-          - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
-          - Surveillance and Prevention Allocation Model: warehouse\models\SurveillencePreventionAllocationModel.md
-          - Positive Predictor Model: warehouse\models\PositivePredictorModel.md
-          - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
-          - Outbreak Response Tool: warehouse\models\OutbreakResponseTool.md
+          - Contact Structure Model: warehouse\models\ContactStructure.md
           - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
+          - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
+          - Outbreak Response Tool: warehouse\models\OutbreakResponseTool.md
+          - Positive Predictor Model: warehouse\models\PositivePredictorModel.md
+          - Sample Allocation using Optimal Control Model: warehouse\models\SampleAllocationOptimalControl.md
+          - Simple Prevalence Estimator: warehouse\models\SimplePrevalenceEstimator.md
+          - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
+          - Western Expansion of the Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModelWestern.md
+          - Expansion of the Sample Allocation Model to Surveillance, Prevention, and Management: warehouse/models/SampleAllocationOptimalControlPartII.md
     - Visualizations: warehouse/viz.md
     - Supporting documents: warehouse/warehouse-docs.md
   - Modeling Team: modeling.md

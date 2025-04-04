@@ -21,7 +21,3 @@ The Spread Model Data Export summarizes and formats sample data from the CWD Dat
 
 ## Outputs
 * A downloadable file of processed data for upload into the spatial diffusion app. 
-
-##
-
-For more details, go to the [CWD Data Warehouse User Manual: Spread Model Data Export.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/spatialdiffusion.html){target="_blank"}
