@@ -27,7 +27,3 @@ The Disease Control Strategies Model is used to compare and contrast management 
 * Histograms that show the number of deer exposed to CWD given each candidate management strategy
 * Plots that show the number of deer exposed to CWD relative to environmental, disease, and host agents within a management strategy
 * The best strategy (or combinations of strategies) to attenuate CWD outbreak
-
-##
-
-For more details, go to the [CWD Data Warehouse User Manual: Disease Control Strategies Model.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/ABMCarlos.html){target="_blank"}

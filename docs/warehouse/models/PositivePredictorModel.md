@@ -24,7 +24,3 @@ The Positive Predictor uses machine learning in conjunction with regional survei
 
 ## Outputs
 * A map containing the predictions of CWD emergence for each county in the study area.
-
-##
-
-For more details, go to the [CWD Data Warehouse User Manual: Positive Predictor Model.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/MLpredictor.html){target="_blank"}

@@ -24,10 +24,3 @@ The Home Range Contamination Model is used to determine which home ranges are li
 
 ## Outputs
 * A map that shows risk of CWD detection by home range and age/sex segment.
-
-<center>![Moose](../../assets/Moose.jpg)
-<figcaption>Photo credit: Art Kirsch </figcaption></center>
-
-##
-
-For more details, go to the [CWD Data Warehouse User Manual: Home Range Contamination Model.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/habitatrisk.html){target="_blank"}
