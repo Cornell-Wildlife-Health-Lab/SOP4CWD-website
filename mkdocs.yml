@@ -21,8 +21,8 @@ nav:
     - Models: 
         - warehouse/models/index.md
         - Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModel.md
-        - Sample Size for Multiple Groups Model: warehouse/models/FreedomFromDiseaseClusteredPopulation.md
-        - Statistical Sample Quotas using Clustering: warehouse/models/StatisticalSampleQuotas.md
+        - Efficient Sample Size Calculator: warehouse/models/EfficientSampleSizeCalculator.md
+        - Statistical Sample Quotas Model Using Clustering: warehouse/models/StatisticalSampleQuotas.md
         - Epizootic Risk Model: warehouse/models/EpizooticRiskModel.md
         - Prevalence Estimator Data Export: warehouse/models/PrevalenceEstimatorDataExport.md
         - Disease Cluster Analysis Data Export: warehouse\models/DiseaseClusterAnalysisDataExport.md
@@ -39,7 +39,9 @@ nav:
           - Expansion of the Sample Allocation Model to Surveillance, Prevention, and Management: warehouse/models/SampleAllocationOptimalControlPartII.md
     - Visualizations: warehouse/viz.md
     - Supporting documents: warehouse/warehouse-docs.md
-  - Modeling Team: modeling.md
+  - Facilitating Scientific Discovery: 
+      - warehouse/team/index.md
+      - Meet the Quantitative Group: warehouse/team/group.md
   - Research: research.md
   - Publications: publications.md
   - Partners: partners.md

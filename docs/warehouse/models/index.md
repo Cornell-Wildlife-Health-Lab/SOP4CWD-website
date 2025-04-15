@@ -13,8 +13,8 @@ The CWD Data Warehouse allows agencies to analyze data using models, software th
 * The [**Risk-weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModel.md) incorporates risk factors for CWD to calculate surveillance point quotas per management unit. It is particularly applicable to states/provinces that have not yet detected CWD.
 
 ### To Obtain Statistically Rigorous Surveillance Quotas
-* The [**Sample Size for Multiple Groups**](FreedomFromDiseaseClusteredPopulation.md) is used to determine the sample size needed to declare a population free from disease given that hosts naturally cluster (and share disease) on the landscape. 
-* The [**Statistical Sample Quotas using Clustering**](StatisticalSampleQuotas.md) is used to determine the sample size needed for each subadministrative unit without finding a positive case to declare a population free from disease given that hosts naturally cluster (and share disease) on the landscape. 
+* The [**Efficient Sample Size Calculator**](EfficientSampleSizeCalculator.md) is used to determine the sample size needed to declare a population free from disease given that hosts naturally cluster (and share disease) on the landscape. Sampling schemes include simple random sampling, high-harvest sampling, and two-stage cluster sampling. 
+* The [**Statistical Sample Quotas Model Using Clustering**](StatisticalSampleQuotas.md) is used to determine the sample size needed for each subadministrative unit without finding a positive case to declare a population free from disease given that hosts naturally cluster (and share disease) on the landscape. The sampling scheme is simple random sampling. 
 
 ### To Understand Outbreak Potential in Your System
 * The [**Epizootic Risk Model**](EpizooticRiskModel.md) helps agencies decide where to sample and allows exploration of methods to reduce the epizootic potential of CWD.
