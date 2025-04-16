@@ -33,3 +33,52 @@ a:hover {
   color: #607d8b;
   font-weight: bold; /* Make links bold */
 }
+
+
+/* Cards */
+.card-grid {
+  display: flex;
+  flex-direction: column; /* Stack cards vertically */
+  gap: 40px;
+}
+
+.card {
+  display: flex;
+  flex-basis: 100%; /* Each card takes up 100% of the row */
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+  flex: 1;
+  max-width: 200px;
+  overflow: hidden;
+  padding: 0px 0px 25px 0px
+}
+
+.card-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.card-content {
+  flex: 2;
+  padding: 0px 15px 10px 25px;
+}
+
+.card-content h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 600px) {
+  .card {
+    flex-direction: column;
+  }
+
+  .card-image {
+    max-width: none;
+  }
+}
