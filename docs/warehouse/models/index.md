@@ -36,7 +36,7 @@ The CWD Data Warehouse allows agencies to analyze data using models, software th
 
 
 ## In Theoretical Development
-The SOP4CWD [modeling team](../../modeling.md) is continually working on developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. 
+The SOP4CWD [modeling team](../team/group.md) is continually working on developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. 
 
 * The [**Western Expansion of the Risk-weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModelWestern.md) incorporates risk factors for CWD specific to western North America.
 * The [**Expansion of the Sample Allocation Model to Surveillance, Prevention, and Management**](SampleAllocationOptimalControlPartII.md) expands the Sampling Allocation Model using Optimal Control to areas with confirmed disease. 

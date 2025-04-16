@@ -3,11 +3,11 @@ title: Publications
 description: List of published manuscripts describing models in the warehouse.
 ---
 
-The SOP4CWD collaboration publishes its work in the form of peer-reviewed manuscripts, code for models, and open source data sets. Models that appear in the CWD Data Warehouse are based on published manuscripts. 
-
 # SOP4CWD Publications
 
-###(models in alphabetical order)
+The SOP4CWD collaboration publishes its work in the form of peer-reviewed manuscripts, code for models, and open source data sets. Models that appear in the CWD Data Warehouse are based on published manuscripts. 
+
+## Peer-reviewed Publications
 
 **Epizootic Risk Model**
 
@@ -43,13 +43,10 @@ Booth J, Hanley B, Thompson N, Gonzalez-Crespo C, Christensen S, Jennelle C, Cau
 
 External models linked through the CWD Data Warehouse using the **Prevalence Estimator Data Export** and **Disease Cluster Analysis Data Export** tools are published in peer reviewed journals but are not products of SOP4CWD. Please see the documentation in the external models for the underlying publications.  
 
-
-# Open Code for Warehouse Models
+## Open Code for Warehouse Models
 
 All code used in the CWD Data Warehouse is openly shared through the Cornell Wildlife Health Lab GitHub Repository with an MIT licence. [CWHL Public GitHub](https://github.com/Cornell-Wildlife-Health-Lab). 
 
-
-# Open Source Datasets
+## Open Source Datasets
 
 Schuler K, Hanley B, Abbott RC, Dayan DB, Hollingshead N, Ballard JR, Middaugh CR, Cunningham M, Clemons B, Sayler K, Kelly J, Killmaster CH, Harms T, Ruden RM, Caudell J, Westrich MB, McCallen E, Casey C, O'Brien LM, Trudeau J, Straka K, Stewart C, Carstensen M, McKinley W, Hynes K, Ableman A, Miller L, Cook M, Myers R, Shaw J, Van de Berg S, Tonkovich M, Grove, D, Storm DJ. 2024. _North American wildlife agency CWD testing and ancillary data (2000 – 2021; Version 2)._ Cornell University Library eCommons Repository. [10.7298/7txw-2681.2](https://doi.org/10.7298/7txw-2681.2).
-
