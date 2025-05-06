@@ -4,30 +4,31 @@ description: Model Page on Website
 ---
 
 # Epizootic Risk Model
+*Deployed*
 
-The Epizootic Risk Model depicts areas for which local demographic parameters of the live cervid population influence the spread of CWD once infectious prions are introduced. It allows you to prioritize surveillance in areas with high risk of an explosive outbreak. 
+The Epizootic Risk Model reveals how demographic parameters of the live cervid population may influence CWD dynamics if prions were to be introduced into the herd.
 
 ## Geographical Scale
-* Sub-administrative area
+* Administrative area, subdivided into a sub-administrative areas
 
 ## Required Data
 * Sample data
 
 ## Suggested Data
-* Demography data (e.g., density, fecundity, mortality)
+* Demography data
 
 ## User Inputs
-* Cervid species
-* Estimates of demographic factors (if data are unavailable)
+* Cervid species of interest
+* Estimates of demographic factors (if demography data are unavailable)
 * Estimates of epidemiological factors
 
 ## Outputs
-* Estimates of the Epizootic Potential and Population Growth rate
-* Comparative maps by sub-administrative area
-* Data charts by sub-administrative area
-* Comparative tables by sub-administrative area
+* Estimates of the Epizootic Potential in each sub-administrative area
+* Comparative maps of Epizootic Potential by sub-administrative area
+* Charts depicting the main drivers of Epizootic Potential within each host population
 
 <center>![Epizootic Risk Model Screenshot](../../assets/epi-risk-model-example.png)
-<figcaption>A screenshot of Epizootic Risk Model output (mock data) </figcaption></center>
+<figcaption>A screenshot of Epizootic Risk Model output using mock data </figcaption></center>
 
-For more details, go to the [CWD Data Warehouse User Manual: Epizootic Risk Model.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/epizootic-risk.html){target="_blank"}
+## More Information
+For more details, go to the [CWD Data Warehouse User Manual: Epizootic Risk Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/epizootic-risk.html){target="_blank"}.

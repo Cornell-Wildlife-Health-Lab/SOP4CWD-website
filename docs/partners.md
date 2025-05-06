@@ -3,16 +3,22 @@ title: SOP4CWD Partners
 description: This is a description of the page.
 ---
 
-# Partners
+# Project Partners 
+SOP4CWD would not be possible without the array of partners who have stepped up to support this ambitious effort. 
 
-Interagency data sharing is a principle aim of the Warehouse design. Sharing data and information across jurisdictional boundaries is critical for situational awareness and developing a deeper understanding of CWD to support better data-driven decisions.
+## Agency Partners
+Data and input from participating wildlife agencies play a key role in the CWD Data Warehouse. More than 2-dozen wildlife agencies have participate in SOP4CWD or contributed to the development of the CWD Data Warehouse. By engaging and contributing to the CWD Data Warehouse, wildlife agencies ensure that technologies and modeling products are relevant to wildlife health and can be integrated into existing surveillance programs.
 
-Data and input from participating wildlife agencies play a key role in SOP4CWD and the CWD Data Warehouse. More than 20 wildlife agencies participate in SOP4CWD and have contributed to the development of the CWD Data Warehouse. Wildlife agencies also share important information about their CWD surveillance programs. By engaging and contributing to the CWD Data Warehouse, wildlife agencies ensure that the analyses and products are relevant and can be integrated into existing surveillance programs. Additional tools and visualizations can be added to the Warehouse to meet the evolving needs of wildlife agencies.
+Collaboration with partnering agencies is jointly led by professionals at the Cornell Wildlife Health Lab and Department of Fisheries and Wildlife at Michigan State University. 
 
-SOP4CWD has been funded by the Michigan Department of Natural Resources and the New York State Department of Environmental Conservation and is jointly led by the Cornell Wildlife Health Lab and the Boone and Crockett Quantitative Wildlife Center at Michigan State University. The United States Geological Survey and University of California–Davis contribute to the project as research partners.
+## Technological Partners
+Development of the technology behind the CWD Data Warehouse is led by professionals in the Cornell Wildlife Health Lab, with application development completed by DJ Case. We further coordinate with programmers to incorporate models into the CWD Data Warehouse. 
 
-The CWD Data Warehouse project is led by the Cornell Wildlife Health Lab. The application development team at DJ Case has managed the technical development of the system.
+## Modeling Partners
+The Quantitative Group consists of a growing assortment of self-selected interdisciplinary people from all backgrounds of quantitative analysis or wildlife health. Containing researchers across departments, institutions, sciences, and countries, the diverse perspectives and skills in this group continue to produce [**cutting edge tools**](publications.md) to aid in CWD surveillance. 
 
-The SOP4CWD wildlife health statistics and modeling team consists of a growing assortment of self-selected interdisciplinary people from all backgrounds of quantitative analysis. Containing researchers across departments, institutions, and countries, the diverse perspectives and skills in this group have produced cutting edge tools to aid in CWD surveillance and management. 
+## Financial Partners
+Since project inception in 2020, various components of SOP4CWD have been funded in part by state wildlife agencies, including the Michigan Department of Natural Resources, New York State Department of Environmental Conservation, Alabama Department of Wildlife and Freshwater Fisheries, Tennessee Wildlife Resources Agency, and Maryland Department of Natural Resources. Additional funding has been secured through competitive grants from multiple agencies at the federal level.   
 
-<center>[**Contact SOP4CWD to become a partner.**](contact.md){ .md-button .md-button--primary }</center>
+
+<center>[**Contact SOP4CWD to become a partner**](contact.md){ .md-button .md-button--primary }</center>
