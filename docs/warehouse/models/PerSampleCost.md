@@ -4,7 +4,7 @@ description: Website page
 ---
 
 # Per-Sample Cost Analysis Model
-*In the queue*
+*In development*
 
 This model estimates the per-sample cost to declare a host CWD-free.
 
@@ -17,5 +17,9 @@ This model estimates the per-sample cost to declare a host CWD-free.
 ## Outputs
 * An estimate of the per-host cost to conduct surveillance in each sub-administrative area 
 
-## More information
-For more details, go to the [CWD Data Warehouse User Manual: Per-Sample Cost Analysis Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/expense.html){target="_blank"}.
+## More Information
+For more information, go to the [CWD Data Warehouse User Manual: Per-Sample Cost Analysis Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/expense.html){target="_blank"}.
+
+## Code
+To view the code once deployed, go to the [GitHub Repository: Per-Sample Cost Analysis Model](https://github.com/Cornell-Wildlife-Health-Lab/per-sample-cost-analysis-model){target="_blank"}.
+

@@ -4,7 +4,7 @@ description: Website page
 ---
 
 # Probability of Disease Freedom Using Clustering Model
-*In final QA/QC prior to deployment*
+*In development*
 
 The Probability of Disease Freedom Using Clustering Model is the third of three models used after sampling has occurred and no positive cases are found to estimate the latent prevalence of CWD. 
 
@@ -24,5 +24,12 @@ Unlike the [**Simple Undetected Prevalence Estimator**](SimpleUndetectedPrevalen
 ## Outputs
 * The probability that each sub-administrative area is disease-free  
 
-## More information
-For more details, go to the [CWD Data Warehouse User Manual: Probability of Disease Freedom Using Clustering Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/DiseaseFreedomUsingClustering.html){target="_blank"}.
+## More Information
+For more information, go to the [CWD Data Warehouse User Manual: Probability of Disease Freedom Using Clustering Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/DiseaseFreedomUsingClustering.html){target="_blank"}.
+
+## Code
+To view the code once deployed, go to the [GitHub Repository: Probability of Disease Freedom Using Clustering Model](https://github.com/Cornell-Wildlife-Health-Lab/probability-of-disease-freedom-using-clustering){target="_blank"}.
+
+## Citations
+* Booth JG, Hanley BJ, Hodel FH, Jennelle CS, Guinness J, Them CE, Mitchell CI, Ahmed MS, Schuler KL. 2024. [Sample size for estimating disease prevalence in free-ranging wildlife populations: A Bayesian modeling approach](https://doi.org/10.1007/s13253-023-00578-7). Journal of Agricultural, Biological, and Environmental Sciences. 29, 438–454.
+* Booth JG, Hanley BJ, Thompson NE, Gonzalez-Crespo C, Christensen SA, Jennelle CS, Caudell JN, Delisle Z, Guinness J, Hollingshead NA, Them CT, Schuler KL. [Management agencies can leverage animal social structure for wildlife disease surveillance](https://meridian.allenpress.com/jwd/article/doi/10.7589/JWD-D-24-00079/506128/Management-Agencies-Can-Leverage-Animal-Social). Journal of Wildlife Diseases.

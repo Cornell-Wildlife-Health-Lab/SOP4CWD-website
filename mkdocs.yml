@@ -42,9 +42,6 @@ nav:
         - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
         - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
         - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
-      - In theoretical development:
-        - Risk-weighted Surveillance Quotas Model (Western Expansion): warehouse/models/RiskWeightedSurveillanceQuotasModelWestern.md
-        - Sample Allocation Model (Management Expansion): warehouse/models/SampleAllocationModelPartII.md
     - Visualizations: warehouse/Vizualizations.md
     - Supporting Documents: warehouse/SupportingDocuments.md
   - Facilitating Scientific Discovery: 

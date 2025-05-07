@@ -26,7 +26,7 @@ The CWD Data Warehouse allows agencies to analyze their data using models, which
 ### Explore Surveillance Expenses
 * The [**Per-Sample Cost Analysis Model**](PerSampleCost.md) collapses agency expense data into an average cost to determine disease status of a single host in by sub-administrative area by season-year. 
 
-### Make Outbreak Predictions
+### Predict Outbreaks
 * [**Positive Predictor Model**](PositivePredictorModel.md) uses all SOP4CWD data in conjunction with machine learning to predict which sub-administrative areas may turn CWD-positive next. 
 
 ### Explore an Outbreak
@@ -35,13 +35,6 @@ The CWD Data Warehouse allows agencies to analyze their data using models, which
 * The [**Disease Control Strategies Model**](DiseaseControlStrategiesModel.md) used an agent-based framework to investigate ways to thwart disease progression.
 * The [**Home Range Contamination Model**](HomeRangeContaminationModel.md) uses Bayesian spatial modeling to pinpoint home ranges likely to harbor CWD+ hosts. 
 * The [**Spread Model Data Export**](SpreadModelDataExport.md) processes sample data for immediate upload into an external software application that uses a diffusion model to see where CWD might go via host movements. 
-
-## In Theoretical Development
-The SOP4CWD [Quantitative Group](../team/QuantitativeGroup.md) is continually developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. Current construction includes:
-
-* The [**Western Expansion of the Risk-weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModelWestern.md) incorporates risk factors for CWD specific to western North America.
-* The [**Expansion of the Sample Allocation Model to include Management of Known Infections**](SampleAllocationModelPartII.md) expands the Sample Allocation Model to areas with confirmed disease. 
-
 
 <center>![Deer4](../../assets/Deer4.jpg)
 <figcaption>Photo credit: Shutterstock </figcaption></center>
