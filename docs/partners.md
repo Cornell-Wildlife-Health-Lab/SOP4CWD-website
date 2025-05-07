@@ -15,7 +15,7 @@ Collaboration with partnering agencies is jointly led by professionals at the Co
 Development of the technology behind the CWD Data Warehouse is led by professionals in the Cornell Wildlife Health Lab, with application development completed by DJ Case. We further coordinate with programmers to incorporate models into the CWD Data Warehouse. 
 
 ## Modeling Partners
-The Quantitative Group consists of a growing assortment of self-selected interdisciplinary people from all backgrounds of quantitative analysis or wildlife health. Containing researchers across departments, institutions, sciences, and countries, the diverse perspectives and skills in this group continue to produce [**cutting edge tools**](publications.md) to aid in CWD surveillance. 
+The Quantitative Group consists of a growing assortment of self-selected interdisciplinary people from all backgrounds of quantitative analysis or wildlife health. Containing researchers across departments, institutions, sciences, and countries, the diverse perspectives and skills in this group continue to produce [**cutting edge tools**](./warehouse/team/Publications.md) to aid in CWD surveillance. 
 
 ## Financial Partners
 Since project inception in 2020, various components of SOP4CWD have been funded in part by state wildlife agencies, including the Michigan Department of Natural Resources, New York State Department of Environmental Conservation, Alabama Department of Wildlife and Freshwater Fisheries, Tennessee Wildlife Resources Agency, and Maryland Department of Natural Resources. Additional funding has been secured through competitive grants from multiple agencies at the federal level.   

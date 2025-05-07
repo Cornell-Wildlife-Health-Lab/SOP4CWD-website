@@ -19,4 +19,4 @@ Interested researchers must submit a research proposal that describes the projec
 
 Interested researchers are encouraged to contact SOP4CWD for more information.
 
-<center>[Contact SOP4CWD to receive a data request form](contact.md){.md-button .md-button--primary}</center>
+<center>[Contact SOP4CWD to receive a data request form](../../contact.md){.md-button .md-button--primary}</center>

@@ -6,6 +6,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.footer
+    - navigation.sections
   custom_dir: docs/overrides
 extra_css:
   - stylesheets/extra.css
@@ -19,22 +20,29 @@ nav:
     - warehouse/index.md
     - Data Collections: warehouse/DataCollections.md
     - Models: 
-        - warehouse/models/index.md
+      - warehouse/models/index.md
+      - Obtain Surveillance Quotas:
         - Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModel.md
         - Sample Allocation Model: warehouse\models\SampleAllocationModel.md
         - Statistical Sample Quotas Using Clustering Model: warehouse/models/StatisticalSampleQuotas.md
         - Efficient Sample Size Calculator: warehouse/models/EfficientSampleSizeCalculator.md
+      - Understand Outbreak Potential:
         - Epizootic Risk Model: warehouse/models/EpizooticRiskModel.md
+      - Estimate Prevalence:
         - Simple Undetected Prevalence Estimator: warehouse\models\SimpleUndetectedPrevalenceEstimator.md
         - Prevalence Estimator Data Export: warehouse/models/PrevalenceEstimatorDataExport.md
         - Probability of Disease Freedom Using Clustering Model: warehouse/models/ProbabilityDiseaseFreedomClustering.md
+      - Explore Surveillance Expenses:
         - Per-Sample Cost Analysis Model: warehouse\models\PerSampleCost.md
+      - Predict Outbreaks:
         - Positive Predictor Model: warehouse\models\PositivePredictorModel.md
+      - Explore an Outbreak:
         - Disease Cluster Analysis Data Export: warehouse\models/DiseaseClusterAnalysisDataExport.md
         - Outbreak Response Model: warehouse\models\OutbreakResponseModel.md
         - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
         - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
         - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
+      - In theoretical development:
         - Risk-weighted Surveillance Quotas Model (Western Expansion): warehouse/models/RiskWeightedSurveillanceQuotasModelWestern.md
         - Sample Allocation Model (Management Expansion): warehouse/models/SampleAllocationModelPartII.md
     - Visualizations: warehouse/Vizualizations.md

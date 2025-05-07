@@ -31,13 +31,13 @@ The CWD Data Warehouse allows agencies to analyze their data using models, which
 
 ### Explore an Outbreak
 * The [**Disease Cluster Analysis Data Export**](DiseaseClusterAnalysisDataExport.md) processes sample data for immediate upload into an external software application to determine whether disease clusters are statistically significant in time or space.
-* The [**Outbreak Response Model**](OutbreakResponseMool.md) uses resource selection functions to delineate containment areas around the first confirmed or hypothetical CWD-positive cases.
+* The [**Outbreak Response Model**](./OutbreakResponseModel.md) uses resource selection functions to delineate containment areas around the first confirmed or hypothetical CWD-positive cases.
 * The [**Disease Control Strategies Model**](DiseaseControlStrategiesModel.md) used an agent-based framework to investigate ways to thwart disease progression.
 * The [**Home Range Contamination Model**](HomeRangeContaminationModel.md) uses Bayesian spatial modeling to pinpoint home ranges likely to harbor CWD+ hosts. 
 * The [**Spread Model Data Export**](SpreadModelDataExport.md) processes sample data for immediate upload into an external software application that uses a diffusion model to see where CWD might go via host movements. 
 
 ## In Theoretical Development
-The SOP4CWD [Quantitative Group](../team/group.md) is continually developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. Current construction includes:
+The SOP4CWD [Quantitative Group](../team/QuantitativeGroup.md) is continually developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. Current construction includes:
 
 * The [**Western Expansion of the Risk-weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModelWestern.md) incorporates risk factors for CWD specific to western North America.
 * The [**Expansion of the Sample Allocation Model to include Management of Known Infections**](SampleAllocationModelPartII.md) expands the Sample Allocation Model to areas with confirmed disease. 
