@@ -134,4 +134,13 @@ description: This is a description of the page
       <p>Krysten is a wildlife disease ecologist and director of the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. She is interested in the health of wildlife populations and associations with human and domestic animal activities and diseases. She focuses on conserving free-ranging species for current and future generations use and enjoyment using a multi-disciplinary approach involving risk analysis, field studies, human dimensions, and laboratory experiments.</p>
     </div>
   </div>
+  <div class="card">
+    <div class="card-image">
+      <img src="/assets/Ashley_Reeder.jpg" alt="image of [Ashley Reeder">
+    </div>
+    <div class="card-content">
+      <h3>Ashley Reeder</h3>
+      <p>Ashley Reeder is the Chronic Wasting Disease coordinator for the Oregon Department of Fish and Wildlife (ODFW). She received a Bachelor’s degree in Wildlife Ecology and Conservation Science from Washington State University and a Master’s degree in Wildlife Ecology from Cal Poly Humboldt. She has worked with multiple state agencies, universities, and non-profit organizations, with research focusing mainly on ungulate land use, movement, and disease.</p>
+    </div>
+  </div>
 </div>
