@@ -122,14 +122,22 @@ We invite all professionals with an interest in wildlife health surveillance to 
       <p>Studying forestry at the National School of Forestry Engineers and holding a PhD in GIS and remote sensing from the University Ibn Zohr in Morocco, <a href="https://www.researchgate.net/profile/Adnane-Labbaci" target="_blank">Adnane</a> has worked for twelve years at the High Commission of Water Forests and Combating Desertification of Morocco, implementing government decisions on forests and watershed management, desertification mitigation and climate change adaptation. In addition, he has developed a regional geospatial database to establish baselines for forest ecosystems assessment and methodology to combat desertification. His professional interests are in research for sustainable development of natural resources especially forest ecosystems, combating desertification, Smart agriculture, partnership and climate change adaptation and mitigation. He spent 1 ½ years at University of California - Davis on a fellowship with the Humphrey Program, where he learned more about monitoring climate change effects on natural resources and geospatial processes to improve the sustainability of forests, to sequestrate carbon and mitigate climate change effects. Adnane is a professor at the Faculty of Sciences of Agadir where he teaches GIS, remote sensing and Spatial Data Infrastructure, supervises master and PhD theses, and coordinates many projects related to earth observation and spatial data infrastructures. He is also a Postdoc Fulbright scholar.</p>
     </div>
   </div>
-
+    <div class="card">
+    <div class="card-image">
+      <img src="/assets/Ashley_Reeder.jpg" alt="image of [Ashley Reeder">
+    </div>
+    <div class="card-content">
+      <h3>Ashley Reeder</h3>
+      <p>Ashley Reeder is the Chronic Wasting Disease coordinator for the Oregon Department of Fish and Wildlife (ODFW). She received a Bachelor’s degree in Wildlife Ecology and Conservation Science from Washington State University and a Master’s degree in Wildlife Ecology from Cal Poly Humboldt. She has worked with multiple state agencies, universities, and non-profit organizations, with research focusing mainly on ungulate land use, movement, and disease.</p>
+    </div>
+  </div>
   <div class="card">
     <div class="card-image">
       <img src="/assets/Nick.jpg" alt="image of [Nick Hollingshead">
     </div>
     <div class="card-content">
       <h3>Nick Hollingshead</h3>
-      <p>Nick is a data analyst the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a>, where he provides expertise in data collection, management, analysis, and communication to support disease surveillance and wildlife health research. He develops and maintains databases, web-based applications, and other digital technologies to improve data collection strategies, increase data sharing, and support the goal of providing timely and effective communication to collaborators, stakeholders, and the public. Nick also provides guidance on technologies that could improve the effectiveness of disease monitoring and surveillance efforts, with a strong focus on geographic information systems and the development of geospatial data resources relevant to animal health.</p>
+      <p>Nick is a data analyst at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University where he provides expertise in data collection, management, analysis, and communication to support disease surveillance and wildlife health research. He develops and maintains databases, web-based applications, and other digital technologies to improve data collection strategies, increase data sharing, and support the goal of providing timely and effective communication to collaborators, stakeholders, and the public. Nick also provides guidance on technologies that could improve the effectiveness of disease monitoring and surveillance efforts, with a strong focus on geographic information systems and the development of geospatial data resources relevant to animal health.</p>
     </div>
   </div>
   <div class="card">
