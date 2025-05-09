@@ -1,0 +1,20 @@
+---
+title: Data Collections
+description: This is a description of the page.
+---
+
+# Data Collections
+
+The CWD Data Warehouse provides storage and management for 'data collections' including CWD sample data, as well as other related datasets useful for surveillance, management, and response. All data stored in the Warehouse are electronic.
+
+The **Sample Collection** depicts information regarding cervid tissues collected for CWD surveillance. The Sample Collection includes properties that describe the animal from which the sample was taken, conditions and circumstances under which a sample was collected in the field, and test results. The scope of this collection includes samples from any sources of mortality, including hunter-harvest, road kill, clinical suspect cases, captive cervids, targeted removal efforts, and more. For more details, go to the [CWD Data Warehouse User Manual: Sample Collection.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/sample-collection.html){target="_blank"} 
+
+The **Cervid Facility Collection** consists of data related to captive cervid facilities, including cervid farms, shooting preserves, and breeding or propagation areas. Data can include details describing farmed herds as well as activities and conditions at facilities that may be relevant to CWD surveillance and management, such as fencing quality and disposal methods. For more details, go to the [CWD Data Warehouse User Manual: Cervid Facility Collection.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/cervid-facility-collection.html){target="_blank"} 
+
+The **Processor Collection** describes data related to cervid processing businesses, including wild meat processors and taxidermists. Data can include numbers of deer processed, disposal methods, and other activities conducted on the premises that may alter risk profiles of adjacent wild herds. For more details, go to the [CWD Data Warehouse User Manual: Processor Collection.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/processor.html){target="_blank"} 
+
+The **Demography Collection** contains quantitative summaries of free-ranging herd dynamics, such as harvest, population, density, fecundity, and mortality. Such data are crucial in providing context for the sample data, as they describe processes that affect transmission dynamics. Demography data are aggregated by species, sub-administrative area (county or equivalent), and season-year (the annual period spanning July 1 to June 30). For more details, go to the [CWD Data Warehouse User Manual: Demography Collection.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/demography.html){target="_blank"} 
+
+The **Agency Expense Collection** describes CWD surveillance-related expenses. It allows for documentation of expenses by season-year, including sample source (hunter-harvest, road kill, and more), sample collection program (hunter submissions, check stations), expense type (shipping, test fees, staff time), and location (sub-administrative area or agency management unit). For more details, go to the [Data Warehouse User Manual: Agency Expense Collection.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/agency-expense.html){target="_blank"} 
+
+The **Annual Surveillance Collection** contains information on the annual surveillance program and its goals. This collection allows an agency to monitor surveillance activity and provide real-time feedback on sampling progress. An agency may also use this collection to document past surveillance activity to understand how surveillance goals have changed over time and space. For more details, go to the [Data Warehouse User Manual: Annual Surveillance Collection.](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/annual-surveillance.html){target="_blank"} 

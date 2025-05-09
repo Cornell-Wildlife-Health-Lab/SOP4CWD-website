@@ -6,6 +6,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.footer
+    - navigation.sections
   custom_dir: docs/overrides
 extra_css:
   - stylesheets/extra.css
@@ -17,34 +18,40 @@ nav:
   - About: about.md
   - CWD Data Warehouse:
     - warehouse/index.md
-    - Data Collections: warehouse/data.md
+    - Data Collections: warehouse/DataCollections.md
     - Models: 
-        - warehouse/models/index.md
+      - warehouse/models/index.md
+      - Obtain Surveillance Quotas:
         - Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModel.md
+        - Sample Allocation Model: warehouse\models\SampleAllocationModel.md
+        - Statistical Sample Quotas Using Clustering Model: warehouse/models/StatisticalSampleQuotas.md
         - Efficient Sample Size Calculator: warehouse/models/EfficientSampleSizeCalculator.md
-        - Statistical Sample Quotas Model Using Clustering: warehouse/models/StatisticalSampleQuotas.md
+      - Understand Outbreak Potential:
         - Epizootic Risk Model: warehouse/models/EpizooticRiskModel.md
+      - Estimate Prevalence:
+        - Simple Undetected Prevalence Estimator: warehouse\models\SimpleUndetectedPrevalenceEstimator.md
         - Prevalence Estimator Data Export: warehouse/models/PrevalenceEstimatorDataExport.md
+        - Probability of Disease Freedom Using Clustering Model: warehouse/models/ProbabilityDiseaseFreedomClustering.md
+      - Explore Surveillance Expenses:
+        - Per-Sample Cost Analysis Model: warehouse\models\PerSampleCost.md
+      - Predict Outbreaks:
+        - Positive Predictor Model: warehouse\models\PositivePredictorModel.md
+      - Explore an Outbreak:
         - Disease Cluster Analysis Data Export: warehouse\models/DiseaseClusterAnalysisDataExport.md
-        - In Development:
-          - Contact Structure Model: warehouse\models\ContactStructure.md
-          - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
-          - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
-          - Outbreak Response Tool: warehouse\models\OutbreakResponseTool.md
-          - Positive Predictor Model: warehouse\models\PositivePredictorModel.md
-          - Sample Allocation using Optimal Control Model: warehouse\models\SampleAllocationOptimalControl.md
-          - Simple Prevalence Estimator: warehouse\models\SimplePrevalenceEstimator.md
-          - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
-          - Western Expansion of the Risk-weighted Surveillance Quotas Model: warehouse/models/RiskWeightedSurveillanceQuotasModelWestern.md
-          - Expansion of the Sample Allocation Model to Surveillance, Prevention, and Management: warehouse/models/SampleAllocationOptimalControlPartII.md
-    - Visualizations: warehouse/viz.md
-    - Supporting documents: warehouse/warehouse-docs.md
+        - Outbreak Response Model: warehouse\models\OutbreakResponseModel.md
+        - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
+        - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
+        - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
+    - Visualizations: warehouse/Vizualizations.md
+    - Supporting Documents: warehouse/SupportingDocuments.md
   - Facilitating Scientific Discovery: 
       - warehouse/team/index.md
-      - Meet the Quantitative Group: warehouse/team/group.md
-  - Research: research.md
-  - Publications: publications.md
-  - Partners: partners.md
+      - Peruse SOP4CWD Publications: warehouse/team/Publications.md
+      - Join the Quantitative Group: warehouse/team/QuantitativeGroup.md
+      - Access Agency Data for Research: warehouse/team/DataRequests.md
+      - Contribute a Model to the Warehouse: warehouse/team/ContributeModels.md
+      - Learn from SOP4CWD Coordinators: warehouse/team/LearnFromUs.md
+  - Project Partners: partners.md
   - Join SOP4CWD: join.md
   - Contact SOP4CWD: contact.md
 markdown_extensions:

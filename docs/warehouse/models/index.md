@@ -5,42 +5,36 @@ description: This is a description of the page.
 
 # Models
 
-The CWD Data Warehouse allows agencies to analyze data using models, software that intakes agency data and parameters and generates outputs. The model could be as simple as a data summary or as complex as a high-dimensional spatial analysis. Results of models help wildlife agencies efficiently plan CWD surveillance efforts and make data-driven decisions. 
+The CWD Data Warehouse allows agencies to analyze their data using models, which are defined in the Warehouse to be embedded software that intakes agency data and generates synthesized outputs. A 'model' could be as simple as a data summary or as complex as a high-dimensional spatial analysis. Results of models help wildlife agencies efficiently plan CWD surveillance efforts and make data-driven decisions. 
 
-## Available Models
+## Use Warehouse Models to: 
 
-### To Obtain Risk-Based Surveillance Quotas
-* The [**Risk-weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModel.md) incorporates risk factors for CWD to calculate surveillance point quotas per management unit. It is particularly applicable to states/provinces that have not yet detected CWD.
+### Obtain Surveillance Quotas
+* The [**Risk-Weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModel.md) incorporates risk factors for CWD introduction to calculate surveillance targets by sub-administrative area. This model is particularly applicable to entities that have not yet detected CWD. Surveillance targets minimize unexplored risk. 
+* The [**Sample Allocation Model**](SampleAllocationModel.md) uses optimal control theory to distribute sampling resources across a wide jurisdiction to minimize overall disease burden at the moment of first detection. It model is particularly applicable to entities that have not yet detected CWD, but can be used in any set of sites that are thought to be disease-free. Surveillance targets constitute the best use of sampling dollars.
+* The [**Statistical Sample Quotas Using Clustering Model**](StatisticalSampleQuotas.md) is used to determine the sample size needed for each sub-administrative area without finding a positive case to declare a population free-from-disease given that host clustering. The sampling scheme is simple random sampling. Surveillance targets produce statistically robust investigations of disease at the population scale.
+* The [**Efficient Sample Size Calculator**](EfficientSampleSizeCalculator.md) is used to determine the sample size needed to declare a population free-from-disease given that hosts group together (and share their diseases) on the landscape. Sampling schemes include simple random sampling, high-harvest sampling, and two-stage cluster sampling. Surveillance targets produce statistically robust investigations of disease at the population scale. 
 
-### To Obtain Statistically Rigorous Surveillance Quotas
-* The [**Efficient Sample Size Calculator**](EfficientSampleSizeCalculator.md) is used to determine the sample size needed to declare a population free from disease given that hosts naturally cluster (and share disease) on the landscape. Sampling schemes include simple random sampling, high-harvest sampling, and two-stage cluster sampling. 
-* The [**Statistical Sample Quotas Model Using Clustering**](StatisticalSampleQuotas.md) is used to determine the sample size needed for each subadministrative unit without finding a positive case to declare a population free from disease given that hosts naturally cluster (and share disease) on the landscape. The sampling scheme is simple random sampling. 
+### Understand Outbreak Potential
+* The [**Epizootic Risk Model**](EpizooticRiskModel.md) reveals locations on the landscape where herd dynamics may promote or attenuate an outbreak, if prions were to be introduced. The model further allows agencies to see which demographic parameter disproportionately influences disease outcomes. 
 
-### To Understand Outbreak Potential in Your System
-* The [**Epizootic Risk Model**](EpizooticRiskModel.md) helps agencies decide where to sample and allows exploration of methods to reduce the epizootic potential of CWD.
+### Estimate Prevalence After Sampling Has Occurred
+* The [**Simple Undetected Prevalence Estimator**](SimpleUndetectedPrevalenceEstimator.md) uses a statistical framework to determine underlying prevalence based on the number of samples that test negative for disease in a single surveillance year. 
+* The [**Prevalence Estimator Data Export**](PrevalenceEstimatorDataExport.md) processes sample data into the format needed for immediate upload into an external software application to estimate the maximum prevalence of CWD in areas for which no positive cases were found. 
+* The [**Probability of Disease Freedom Using Clustering Model**](ProbabilityDiseaseFreedomClustering.md) leverages increased disease transmission through host clustering to determine the probability that a population is disease-free given the sampling intensity in a single surveillance year. 
 
-### To Understand your System After Sampling Has Occurred
-* The [**Prevalence Estimator Data Export**](PrevalenceEstimatorDataExport.md) function processes sample data for upload into an external app to estimate the maximum prevalence of CWD in areas for which no positive cases were found after sampling has been completed.
-* The [**Disease Cluster Analysis Data Export**](DiseaseClusterAnalysisDataExport.md) function processes sample data for upload into an external app to determine if disease clusters are present or if disease is randomly distributed over time or space.
- 
+### Explore Surveillance Expenses
+* The [**Per-Sample Cost Analysis Model**](PerSampleCost.md) collapses agency expense data into an average cost to determine disease status of a single host in by sub-administrative area by season-year. 
 
-## In Programming Development
-* [Contact Structure Model](ContactStructure.md) uses GPS collar data to determine contact structure among hosts in a herd. 
-* [Disease Control Strategies Model](DiseaseControlStrategiesModel.md) used an agent-based framework to investigate ways to thwart disease progression.
-* [Home Range Contamination Model](HomeRangeContaminationModel.md) uses Bayesian spatial modeling to pinpoint home ranges likely to harbor diseased hosts. 
-* [Outbreak Response Tool](OutbreakResponseTool.md) uses resource selection functions to draw containment areas after the first confirmed disease positive case. 
-* [Positive Predictor Model](PositivePredictorModel.md) uses machine learning to predict which counties will next test positive for disease. 
-* [Sample Allocation using Optimal Control Model](SampleAllocationOptimalControl.md) uses optimal control theory to allocated resources between surveillance and prevention. It is particularly applicable to states/provinces that have not yet detected CWD.
-* [Simple Prevalence Estimator](SimplePrevalenceEstimator.md) uses a statistical framework to determine underlying prevalence based on the number of samples that test negative for disease.  
-* [Spread Model Data Export](SpreadModelDataExport.md) uses a diffusion model to see where disease might travel via host movements. 
+### Predict Outbreaks
+* [**Positive Predictor Model**](PositivePredictorModel.md) uses all SOP4CWD data in conjunction with machine learning to predict which sub-administrative areas may turn CWD-positive next. 
 
-
-## In Theoretical Development
-The SOP4CWD [modeling team](../team/group.md) is continually working on developing new models to help wildlife agencies create sound, data-driven CWD surveillance, management, and response plans. 
-
-* The [**Western Expansion of the Risk-weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModelWestern.md) incorporates risk factors for CWD specific to western North America.
-* The [**Expansion of the Sample Allocation Model to Surveillance, Prevention, and Management**](SampleAllocationOptimalControlPartII.md) expands the Sampling Allocation Model using Optimal Control to areas with confirmed disease. 
-
+### Explore an Outbreak
+* The [**Disease Cluster Analysis Data Export**](DiseaseClusterAnalysisDataExport.md) processes sample data for immediate upload into an external software application to determine whether disease clusters are statistically significant in time or space.
+* The [**Outbreak Response Model**](./OutbreakResponseModel.md) uses resource selection functions to delineate containment areas around the first confirmed or hypothetical CWD-positive cases.
+* The [**Disease Control Strategies Model**](DiseaseControlStrategiesModel.md) used an agent-based framework to investigate ways to thwart disease progression.
+* The [**Home Range Contamination Model**](HomeRangeContaminationModel.md) uses Bayesian spatial modeling to pinpoint home ranges likely to harbor CWD+ hosts. 
+* The [**Spread Model Data Export**](SpreadModelDataExport.md) processes sample data for immediate upload into an external software application that uses a diffusion model to see where CWD might go via host movements. 
 
 <center>![Deer4](../../assets/Deer4.jpg)
 <figcaption>Photo credit: Shutterstock </figcaption></center>
