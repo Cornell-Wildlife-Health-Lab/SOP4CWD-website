@@ -21,35 +21,23 @@
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/publications/</loc>
-         <lastmod>2025-05-09</lastmod>
-    </url>
-    <url>
-         <loc>https://sop4cwd.org/research/</loc>
-         <lastmod>2025-05-09</lastmod>
-    </url>
-    <url>
          <loc>https://sop4cwd.org/warehouse/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/warehouse/data/</loc>
+         <loc>https://sop4cwd.org/warehouse/DataCollections/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/warehouse/viz/</loc>
+         <loc>https://sop4cwd.org/warehouse/SupportingDocuments/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/warehouse/warehouse-docs/</loc>
+         <loc>https://sop4cwd.org/warehouse/Vizualizations/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
          <loc>https://sop4cwd.org/warehouse/models/</loc>
-         <lastmod>2025-05-09</lastmod>
-    </url>
-    <url>
-         <loc>https://sop4cwd.org/warehouse/models/ContactStructure/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
@@ -73,7 +61,11 @@
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/warehouse/models/OutbreakResponseTool/</loc>
+         <loc>https://sop4cwd.org/warehouse/models/OutbreakResponseModel/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sop4cwd.org/warehouse/models/PerSampleCost/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
@@ -85,23 +77,19 @@
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
+         <loc>https://sop4cwd.org/warehouse/models/ProbabilityDiseaseFreedomClustering/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
          <loc>https://sop4cwd.org/warehouse/models/RiskWeightedSurveillanceQuotasModel/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/warehouse/models/RiskWeightedSurveillanceQuotasModelWestern/</loc>
+         <loc>https://sop4cwd.org/warehouse/models/SampleAllocationModel/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
-         <loc>https://sop4cwd.org/warehouse/models/SampleAllocationOptimalControl/</loc>
-         <lastmod>2025-05-09</lastmod>
-    </url>
-    <url>
-         <loc>https://sop4cwd.org/warehouse/models/SampleAllocationOptimalControlPartII/</loc>
-         <lastmod>2025-05-09</lastmod>
-    </url>
-    <url>
-         <loc>https://sop4cwd.org/warehouse/models/SimplePrevalenceEstimator/</loc>
+         <loc>https://sop4cwd.org/warehouse/models/SimpleUndetectedPrevalenceEstimator/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
@@ -114,6 +102,26 @@
     </url>
     <url>
          <loc>https://sop4cwd.org/warehouse/team/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sop4cwd.org/warehouse/team/ContributeModels/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sop4cwd.org/warehouse/team/DataRequests/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sop4cwd.org/warehouse/team/LearnFromUs/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sop4cwd.org/warehouse/team/Publications/</loc>
+         <lastmod>2025-05-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sop4cwd.org/warehouse/team/QuantitativeGroup/</loc>
          <lastmod>2025-05-09</lastmod>
     </url>
     <url>
