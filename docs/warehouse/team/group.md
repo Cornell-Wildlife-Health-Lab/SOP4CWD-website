@@ -116,6 +116,15 @@ description: This is a description of the page
       <p>Heather is a postdoctoral researcher at the <a href=" https://warnell.uga.edu/about/centers-labs/dr-chandler-applied-ecology-lab" target="_blank">University of Georgia</a>. Her academic interests revolve around accurately estimating population dynamics and abundance, primarily in a Bayesian framework. Heather is currently developing a spatially explicit host-pathogen model to study the spread of CWD across northern Arkansas. She plans to turn the model into an R ShinyApp that state biologists can use to evaluate the impacts of different management strategies on CWD.</p>
     </div>
   </div>
+    <div class="card">
+    <div class="card-image">
+      <img src="/assets/Ashley_Reeder.jpg" alt="image of [Ashley Reeder">
+    </div>
+    <div class="card-content">
+      <h3>Ashley Reeder</h3>
+      <p>Ashley Reeder is the Chronic Wasting Disease coordinator for the Oregon Department of Fish and Wildlife (ODFW). She received a Bachelor’s degree in Wildlife Ecology and Conservation Science from Washington State University and a Master’s degree in Wildlife Ecology from Cal Poly Humboldt. She has worked with multiple state agencies, universities, and non-profit organizations, with research focusing mainly on ungulate land use, movement, and disease.</p>
+    </div>
+  </div>
   <div class="card">
     <div class="card-image">
       <img src="/assets/Nick.jpg" alt="image of [Nick Hollingshead">
