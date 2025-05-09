@@ -10,7 +10,7 @@ The Prevalence Estimator Data Export is the second of three models used after sa
 
 The Prevalence Estimator Data Export allows users to pre-process CWD Data Warehouse sample data for upload and use in the [SpeedGoat Estimation Tool](https://public.spdgt.com/app/wtsurv){target="_blank"}. Of particular interest is the upper bound of the credible interval, which means there is, for example, a 95% probability that true prevalence is at or below the reported level given your sampling effort.  
 
-Unlike the [**Simple Undetected Prevalence Estimator**](SimpleUndetectedPrevalenceEstimator.md), which does not use any auxiliary information for prevalence estimation, or the [**Probability Disease Freedom Using Clustering Model**](ProbabilityDiseaseFreedomClustering.md) which considers host clustering in prevalence estimation, the SpeedGoat Estimation Tool uses prior distributions to estimate prevalence. Only certain prior distributions are accomodated, so sample data depicting select species or sources may not be considered. 
+Unlike the [**Simple Undetected Prevalence Estimator**](SimpleUndetectedPrevalenceEstimator.md), which does not use any auxiliary information for prevalence estimation, or the [**Probability Disease Freedom Using Clustering Model**](ProbabilityDiseaseFreedomClustering.md) which considers host clustering in prevalence estimation, the SpeedGoat Estimation Tool uses prior distributions to estimate prevalence. Only certain prior distributions are accommodated, so sample data depicting select species or sources may not be considered. 
 
 ## Geographical Scale
 * Administrative area, subdivided into a sub-administrative areas

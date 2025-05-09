@@ -6,7 +6,7 @@ description: Model Page on Website
 # Risk-Weighted Surveillance Quotas Model
 *Deployed*
 
-The Risk-Weighted Surveillance Quotas Model incorporates risk factors for CWD, including anthropogenic (human-related) and demographic (host population) forces to calculate surveillance quotas per sub-administrative area. Surveillence targets can be used by agencies to plan upcoming surveillance across a region, state, province, or nation.
+The Risk-Weighted Surveillance Quotas Model incorporates risk factors for CWD, including anthropogenic (human-related) and demographic (host population) forces to calculate surveillance quotas per sub-administrative area. Surveillance targets can be used by agencies to plan upcoming surveillance across a region, state, province, or nation.
 
 ## Geographical Scale
 * Administrative area, subdivided into a sub-administrative areas
@@ -33,7 +33,7 @@ The Risk-Weighted Surveillance Quotas Model incorporates risk factors for CWD, i
 <center>![Risk-Weighted Surveillance Quotas Model output map](../../assets/risk-weighted_surv-model-map-example.jpg)
 <figcaption>A map showing mock surveillance quotas produced by the Risk-Weighted Surveillance Quotas Model</figcaption></center>
 
-<center>![Risk Weighted Surveillance Quoutas Model output data](../../assets/risk-weighted_surv-model-data-example.jpg)
+<center>![Risk Weighted Surveillance Quotas Model output data](../../assets/risk-weighted_surv-model-data-example.jpg)
 <figcaption>Mock risk scoring and sampling quotas produced by the Risk Weighted Surveillance Quotas Model</figcaption></center>
 
 ## More Information

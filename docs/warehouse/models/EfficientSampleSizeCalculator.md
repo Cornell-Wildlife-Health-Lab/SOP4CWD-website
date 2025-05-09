@@ -6,7 +6,7 @@ description: Infectious disease model for population health
 # Efficient Sample Size Calculator
 *Deployed*
 
-The Efficient Sample Size Calculator simulates the sample size needed to declare a population free-from-disesae while explicitly accounting for the natural clustering behavior of hosts. The Calculator can be used to plan investigations using simple random sampling, high-harvest, or two-stage cluster sampling designs. 
+The Efficient Sample Size Calculator simulates the sample size needed to declare a population free-from-disease while explicitly accounting for the natural clustering behavior of hosts. The Calculator can be used to plan investigations using simple random sampling, high-harvest, or two-stage cluster sampling designs. 
 
 ## Geographical Scale
 * Population size of interest, regardless of the spatial scale

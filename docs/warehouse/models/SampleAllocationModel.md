@@ -20,7 +20,7 @@ The Sample Allocation Model (SAM) uses pioneering methods in optimal control the
 
 ## Outputs
 * A map containing the probability that each sub-administrative area is disease-free 
-* A map containing the intensity of sampling needed in each sub-administrative area to achive optimal control
+* A map containing the intensity of sampling needed in each sub-administrative area to achieve optimal control
 * A graph showing the annual budget necessary to shorten the time till first detection
 
 ## More Information

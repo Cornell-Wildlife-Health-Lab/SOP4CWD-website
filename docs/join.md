@@ -7,7 +7,7 @@ description: This is a description of the page.
 Partnership in any capacity of SOP4CWD is free and open to anyone wishing to contribute to the science, learn new methods, meet new people, or contribute time, energy, or data to benefit everyone in this shared fight against CWD.  
 
 ## Contribute Wildlife Agency Data
-All wildlife agencies in states (US and Mexico), provinces (Canada), and indigeneous nations (North America) are welcome to join the CWD Data Warehouse at no cost. The more partners we have, the stronger and better the outcomes of this effort will be.
+All wildlife agencies in states (US and Mexico), provinces (Canada), and indigenous nations (North America) are welcome to join the CWD Data Warehouse at no cost. The more partners we have, the stronger and better the outcomes of this effort will be.
 
 In general, wildlife agencies that join SOP4CWD are expected to be active and engaged by maintaining their CWD data in the Warehouse. This includes best available CWD sampling and test data; population demographics; specific CWD introduction risks; historic population management activities and hunting data; and current surveillance program activities. 
 
