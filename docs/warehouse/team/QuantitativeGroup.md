@@ -7,9 +7,9 @@ description: This is a description of the page
 
 ## Join the Group
 We invite all professionals with an interest in wildlife health surveillance to meet us virtually at 3-4pm ET each week. We discuss the most pressing questions in CWD data, prevention, surveillance, and management, then construct models to answer these questions. No previous statistical or modeling experience necessary! 
-<center>[Contact SOP4CWD to get a Zoom invitation to the weekly meeting](../../contact.md){.md-button .md-button--primary}</center>
+<center>[Contact us to join](../../contact.md){.md-button .md-button--primary}</center>
 
-## Meet the Others in the Group
+## Meet the Quantitative Group
 
 <div class="card-grid">
   <div class="card">
