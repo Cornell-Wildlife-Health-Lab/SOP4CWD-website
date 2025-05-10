@@ -13,4 +13,3 @@ Some visualizations have specific purposes and therefore require specific data o
 <figcaption>An example ad hoc visualization depicting sampling across a ten-year period. <em><b>This image does not represent actual data.</b></em></figcaption></center>
 
 For more details, go to the [CWD Data Warehouse User Manual: Visualizations](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/visualizations.html){target="_blank"}.
-

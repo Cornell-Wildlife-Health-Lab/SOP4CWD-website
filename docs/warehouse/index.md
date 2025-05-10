@@ -18,7 +18,7 @@ The CWD Data Warehouse is designed around a conceptual framework containing thre
 
 * The data collections serve as inputs for the [**Models**](models\index.md), which are a collection of quantitative tools embedded in the Warehouse that can be run by users with no coding or statistical expertise. These integrated surveillance, modeling, and management functionalities provide wildlife agencies avenues to use their own data to efficiently plan surveillance efforts.
 
-* The [**Visualizations**](Vizualizations.md) displays Data summaries and Model outputs in the form of interactive maps, graphs, and comparative tables. Visualizations are useful for data exploration, understanding model results, information sharing both within and across wildlife agencies, and even in keeping apace of day-to-day surveillance activities.
+* The [**Visualizations**](Visualizations.md) displays Data summaries and Model outputs in the form of interactive maps, graphs, and comparative tables. Visualizations are useful for data exploration, understanding model results, information sharing both within and across wildlife agencies, and even in keeping apace of day-to-day surveillance activities.
 
 By integrating these three components, the CWD Data Warehouse supports efficient and effective surveillance plans using the most up-to-date agency data.
 

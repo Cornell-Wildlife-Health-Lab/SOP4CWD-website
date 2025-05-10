@@ -3,10 +3,12 @@ site_url: 'https://sop4cwd.org'
 theme:
   name: material
   features:
+    - search
     - navigation.tabs
     - navigation.indexes
     - navigation.footer
     - navigation.sections
+    
   custom_dir: docs/overrides
 extra_css:
   - stylesheets/extra.css
@@ -42,12 +44,12 @@ nav:
         - Disease Control Strategies Model: warehouse/models/DiseaseControlStrategiesModel.md
         - Home Range Contamination Model: warehouse/models/HomeRangeContaminationModel.md
         - Spread Model Data Export: warehouse\models\SpreadModelDataExport.md
-    - Visualizations: warehouse/Vizualizations.md
+    - Visualizations: warehouse/Visualizations.md
     - Supporting Documents: warehouse/SupportingDocuments.md
   - Facilitating Scientific Discovery: 
       - warehouse/team/index.md
-      - Peruse SOP4CWD Publications: warehouse/team/Publications.md
       - Join the Quantitative Group: warehouse/team/QuantitativeGroup.md
+      - Peruse SOP4CWD Publications: warehouse/team/Publications.md
       - Access Agency Data for Research: warehouse/team/DataRequests.md
       - Contribute a Model to the Warehouse: warehouse/team/ContributeModels.md
       - Learn from SOP4CWD Coordinators: warehouse/team/LearnFromUs.md
