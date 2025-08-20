@@ -4,9 +4,8 @@ description: Website page
 ---
 
 # Statistical Sample Quotas Using Clustering Model
-*In development*
 
-The Statistical Sample Quotas Using Clustering Model estimates the sample size needed in each sub-administrative area without finding a positive case to have high probability that prevalence in the population is at or below a threshold. The model explicitly accounts for increased disease transmission through the natural clustering behavior of hosts in the population and assumes a simple random sampling design.
+The Statistical Sample Quotas Using Clustering Model estimates the sample size needed for each sub-administrative area with no positive cases to assert with high probability that CWD prevalence in the population is at or below a threshold. The model explicitly accounts for increased disease transmission through the natural clustering behavior of hosts in the population and assumes a simple random sampling design.
 
 ## Geographical Scale
 * Administrative area, subdivided into a sub-administrative areas
@@ -32,5 +31,4 @@ For more information, go to the [CWD Data Warehouse User Manual: Statistical Sam
 To view the code once deployed, go to the [GitHub Repository: Statistical Sample Quotas Using Clustering Model](https://github.com/Cornell-Wildlife-Health-Lab/statistical-sample-quotas-using-clustering-model){target="_blank"}. To view the docker image, go to the [Docker Hub: cwhl/statistical-sample-size-with-clustering-model](https://hub.docker.com/r/cwhl/statistical-sample-size-with-clustering-model){target="_blank"}.
 
 ## Citations
-* Booth JG, Hanley BJ, Hodel FH, Jennelle CS, Guinness J, Them CE, Mitchell CI, Ahmed MS, Schuler KL. 2024. [Sample size for estimating disease prevalence in free-ranging wildlife populations: A Bayesian modeling approach](https://doi.org/10.1007/s13253-023-00578-7). Journal of Agricultural, Biological, and Environmental Sciences. 29, 438–454.
-* Booth JG, Hanley BJ, Thompson NE, Gonzalez-Crespo C, Christensen SA, Jennelle CS, Caudell JN, Delisle Z, Guinness J, Hollingshead NA, Them CT, Schuler KL. [Management agencies can leverage animal social structure for wildlife disease surveillance](https://meridian.allenpress.com/jwd/article/doi/10.7589/JWD-D-24-00079/506128/Management-Agencies-Can-Leverage-Animal-Social). Journal of Wildlife Diseases.
+* Booth JG, Hanley BJ, Hodel FH, Jennelle CS, Guinness J, Them CE, Mitchell CI, Ahmed MS, Schuler KL. 2024. [Sample size for estimating disease prevalence in free-ranging wildlife populations: A Bayesian modeling approach](https://doi.org/10.1007/s13253-023-00578-7). Journal of Agricultural, Biological, and Environmental Sciences. 29, 438b
