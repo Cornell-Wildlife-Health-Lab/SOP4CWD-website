@@ -4,9 +4,8 @@ description: Model Page on Website
 ---
 
 # Sample Allocation Model 
-*In development*
 
-The Sample Allocation Model (SAM) uses pioneering methods in optimal control theory to balance surveillance cost with introduction probability in each sub-administrative area to pinpoint the best possible surveillance strategy across the entire administrative area. SAM is also useful in determining the probability that a sub-administrative area is disease-free given up to three years of historical sampling intensity without finding a positive case.
+The Sample Allocation Model (SAM) uses optimal control theory to identify an optimal surveillance strategy for areas with no cases of CWD, balancing surveillance costs and the probability of CWD introduction into each area. The SAM framework provides three model settings that allow users to flexibly integrate the probability of disease spread with any historical sampling data and/or expense data to understand (1) the probability that any given area is disease-free at present, and (2) how to best allocate a surveillance budget to be able to identify the introduction of CWD as early as possible.
 
 ## Geographical Scale
 * Administrative area, subdivided into a sub-administrative areas
@@ -19,9 +18,9 @@ The Sample Allocation Model (SAM) uses pioneering methods in optimal control the
 * Annual budget of the surveillance program across the entire administrative area
 
 ## Outputs
-* A map containing the probability that each sub-administrative area is disease-free 
+* A map containing the probability that each sub-administrative area is disease-free or at a certain level of prevalence
 * A map containing the intensity of sampling needed in each sub-administrative area to achieve optimal control
-* A graph showing the annual budget necessary to shorten the time till first detection
+* A graph showing how different annual budgets affect the time to first detection
 
 ## More Information
 For more information, go to the [CWD Data Warehouse User Manual: Sample Allocation Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/SAM.html){target="_blank"}.
