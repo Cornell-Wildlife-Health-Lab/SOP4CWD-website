@@ -65,7 +65,16 @@ We invite all professionals with an interest in wildlife health surveillance to 
     </div>
     <div class="card-content">
       <h3>Brenda Hanley</h3>
-      <p>Brenda is a research associate at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University . Her research involves adapting or inventing new computational tools to aid resource managers in analyzing their data. She is trained in geography, mathematics, statistics, and computational biology. When not doing math or stats for wildlife bios, she is outside fully engrossed by the rocks.</p>
+      <p>Brenda is a research associate at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. Her research involves adapting or inventing new computational tools to aid resource managers in analyzing their data. She is trained in geography, mathematics, statistics, and computational biology. When not doing math or stats for wildlife bios, she is outside fully engrossed by the rocks.</p>
+    </div>
+  </div>
+    <div class="card">
+    <div class="card-image">
+      <img src="/assets/ssernaker.jpg" alt="image of Sarah Sernaker">
+    </div>
+    <div class="card-content">
+      <h3>Sarah Sernaker</h3>
+      <p>Sarah is a data engineer at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. She maintains the CWD Warehouse database, builds web-based statistical tools for data analysis, and provides technical guidance to agencies and collaborators. With an extensive background as a statistician, she offers expertise on collecting, storing, cleaning, analyzing, and visualizing data.
     </div>
   </div>
   <div class="card">
@@ -106,7 +115,7 @@ We invite all professionals with an interest in wildlife health surveillance to 
   </div>
       <div class="card">
     <div class="card-image">
-      <img src="/assets/Heather.jpg" alt="image of [Heather Gaya">
+      <img src="/assets/Heather.jpg" alt="image of Heather Gaya">
     </div>
     <div class="card-content">
       <h3>Heather Gaya</h3>
