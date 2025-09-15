@@ -1697,23 +1697,45 @@
 <p>The Sample Allocation Model (SAM) uses optimal control theory to identify an optimal surveillance strategy for areas with no cases of CWD, balancing surveillance costs and the probability of CWD introduction into each area. The SAM framework provides three model settings that allow users to flexibly integrate the probability of disease spread with any historical sampling data and/or expense data to understand (1) the probability that any given area is disease-free at present, and (2) how to best allocate a surveillance budget to be able to identify the introduction of CWD as early as possible.</p>
 <h2 id="geographical-scale">Geographical Scale</h2>
 <ul>
-<li>Administrative area, subdivided into a sub-administrative areas</li>
+<li>Administrative area (i.e. agency or state), subdivided into a sub-administrative areas or management units.</li>
 </ul>
 <h2 id="required-data">Required Data</h2>
 <ul>
-<li>Average surveillance cost-per-sample in each sub-administrative area </li>
-<li>The ability to run the Risk-Weighted Surveillance Quotas Model to obtain introduction probabilities</li>
+<li>The ability to run the <a href="https://sop4cwd.org/warehouse/models/RiskWeightedSurveillanceQuotasModel/" target="_blank">Risk-Weighted Surveillance Quotas Model</a> to obtain introduction probabilities</li>
 </ul>
 <h2 id="user-inputs">User Inputs</h2>
 <ul>
-<li>Annual budget of the surveillance program across the entire administrative area</li>
+<li>Annual budget of the surveillance program across the entire administrative area or agency</li>
+<li>Annual growth rate</li>
+<li>Number of years of historical data to include</li>
+<li>Average surveillance cost per-sample in each sub-administrative area </li>
+<li>Maximum sampling capacity in each sub-administrative area</li>
 </ul>
 <h2 id="outputs">Outputs</h2>
 <ul>
-<li>A map containing the probability that each sub-administrative area is disease-free or at a certain level of prevalence</li>
-<li>A map containing the intensity of sampling needed in each sub-administrative area to achieve optimal control</li>
-<li>A graph showing how different annual budgets affect the time to first detection</li>
+<li>Choropleth maps showing the current probability and probability over time that each sub-administrative area has CWD present or at a certain level of prevalence</li>
 </ul>
+<p><center><img alt="Current probabilities choropleth" src="../../../assets/sam/sam_viz_mode1.png" /></p>
+<figcaption>A map showing mock probabilities for CWD disease presence.</figcaption>
+<p></center></p>
+<ul>
+<li>Choropleth maps showing the intensity of sampling needed over time in each sub-administrative area to achieve optimal control</li>
+</ul>
+<p><center><img alt="Sample size choropleth" src="../../../assets/sam/sam_viz_samplesize_overtime.png" /></p>
+<figcaption>A map showing mock surveillance quotas from the optimal control strategy produced by SAM.</figcaption>
+<p></center></p>
+<ul>
+<li>Time series line graphs showing mock probabilities and sampling plans over time in each sub-administrative area</li>
+</ul>
+<p><center><img alt="Time series" src="../../../assets/sam/sam_viz_timeseries.png" /></p>
+<figcaption>A time series graph showing mock sample size quotas, and probabilities, over time on the optimal control strategy produced by SAM.</figcaption>
+<p></center></p>
+<ul>
+<li>A bar graph showing how optimal strategies on different annual budgets impact the total delayed time between introduction and detection </li>
+</ul>
+<p><center><img alt="Cost analysis bar graph" src="../../../assets/sam/sam_viz_costanalysis.png" /></p>
+<figcaption>A bar graph showing mock total unobserved spread from the optimal strategy at different budgets.</figcaption>
+<p></center></p>
 <h2 id="more-information">More Information</h2>
 <p>For more information, go to the <a href="https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/SAM.html" target="_blank">CWD Data Warehouse User Manual: Sample Allocation Model</a>.</p>
 <h2 id="code">Code</h2>
