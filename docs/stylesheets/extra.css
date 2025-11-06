@@ -24,6 +24,7 @@ a:hover {
   --md-primary-fg-color--light: #607d8b; /* light blue */
   --md-primary-fg-color--dark:  #607d8b;
   --md-accent-fg-color: #B36200;
+  --md-footer__link--prev: #B36200;
 }
 .md-banner__inner {
   margin: 0;
@@ -33,6 +34,20 @@ a:hover {
   color: #607d8b;
   font-weight: bold; /* Make links bold */
 }
+
+.md-footer {
+  background-color: #37474f; /* Replace #123456 with your desired color */
+}
+/* Footer nav links: previous/next */
+.md-footer__link {
+  color: #ffffff;
+}
+
+.md-footer__link:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
 
 
 /* Cards */
@@ -82,3 +97,4 @@ a:hover {
     max-width: none;
   }
 }
+

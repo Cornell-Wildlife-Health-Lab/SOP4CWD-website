@@ -10,10 +10,11 @@ The SOP4CWD collaboration publishes its work in the form of peer-reviewed manusc
 ## Peer-Reviewed Publications
 
 ### Risk-Weighted Surveillance Quotas Model
-* Schuler K, Hollingshead N, Heerkens S, Kelly J, Hurst J, Abbott R, Hanley B, Collins E, Hynes K. _A “hazard model” using risk-weighted surveillance for first detection of chronic wasting disease._ In peer review.
+* Schuler KL, Hollingshead NA, Heerkens S, Kelly JD, Hurst JE, Abbott RC, Hanley BJ, Collins E, Hynes KP. [A "hazard model" using risk-weighted surveillance for first detection of chronic wasting disease](https://doi.org/10.1016/j.prevetmed.2025.106599). _Preventive Veterinary Medicine_. 
+
 
 ### Sample Allocation Model
-* Wang J, Hanley B, Thompson N, Gong Y, Walsh D, Huang Y, Gonzalez-Crespo C, Booth J, Caudell J, Hynes K, Miller L, Schuler K. _Strategic planning of prevention and surveillance for emerging infectious disease._ In peer review.
+*  Wang J, Hanley B, Thompson N, Gong Y, Walsh D, Gonzalez-Crespo C, Huang Y, Booth J, Caudell J, Miller L, Schuler K. 2025. [Strategic planning of prevention and surveillance for emerging diseases and invasive species](https://doi.org/10.1073/pnas.2507202122). _PNAS_. 
 
 ### Efficient Sample Size Calculator 
 * Booth JG, Hanley BJ, Hodel FH, Jennelle CS, Guinness J, Them CE, Mitchell CI, Ahmed MS, Schuler KL. 2024. [Sample size for estimating disease prevalence in free-ranging wildlife populations: A Bayesian modeling approach](https://doi.org/10.1007/s13253-023-00578-7). Journal of Agricultural, Biological, and Environmental Sciences. 29, 438–454.

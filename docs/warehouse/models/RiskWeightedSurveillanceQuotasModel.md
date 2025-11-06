@@ -43,4 +43,4 @@ For more information, go to the [CWD Data Warehouse User Manual: Risk-Weighted S
 To view the code, go to the [GitHub Repository: Risk-Weighted Surveillance Quotas Model](https://github.com/Cornell-Wildlife-Health-Lab/risk-weighted-surveillance-quotas-model){target="_blank"}.
 
 ## Citation
-* Schuler KL, Hollingshead NA, Heerkens S, Kelly JD, Hurst J, Abbott RC, Hanley BJ, Collins E, Hynes KP. A “hazard model” using risk-weighted surveillance for first detection of chronic wasting disease. In peer revision.
+* Schuler KL, Hollingshead NA, Heerkens S, Kelly JD, Hurst JE, Abbott RC, Hanley BJ, Collins E, Hynes KP. [A "hazard model" using risk-weighted surveillance for first detection of chronic wasting disease](https://doi.org/10.1016/j.prevetmed.2025.106599). _Preventive Veterinary Medicine_. 
