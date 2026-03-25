@@ -32,16 +32,6 @@ We invite all professionals with an interest in wildlife health surveillance to 
       <p>Carlos is an assistant project scientist in the <a href="https://cadms.vetmed.ucdavis.edu/" target="_blank">Center for Animal Disease Modeling and Surveillance (CADMS) at University of California - Davis</a>, with a PhD and Master's degree in Biodiversity from the Autonomous University of Barcelona. Specializing in infectious disease epidemiology, his research focuses on the impact of pathogens on ecosystems. His doctoral work used models to assess disease management and transmission risks in urban wild boars in Barcelona. Currently, he is exploring agent-based models to understand disease transmission at the wildlife-domestic-human interface, with a particular emphasis on artificial intelligence (machine learning and deep learning) and big data applications.</p>
     </div>
   </div>
-  
-  <div class="card">
-    <div class="card-image">
-      <img src="/assets/JP.jpg" alt="image of Jean-Philippe Dion">
-    </div>
-    <div class="card-content">
-      <h3>Jean-Philippe Dion</h3>
-      <p>Jean-Philippe joined Quebec’s <a href="https://www.environnement.gouv.qc.ca/" target="_blank">Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs in 2019</a>, as a wildlife biologist. Specializing in wildlife health and animal welfare, he notably worked on the provincial chronic wasting disease management plan. He holds a bachelor’s degree in biology from Université Laval and a technical degree in bioecology.</p>
-    </div>
-  </div>
 
   <div class="card">
     <div class="card-image">
@@ -69,7 +59,7 @@ We invite all professionals with an interest in wildlife health surveillance to 
     </div>
     <div class="card-content">
       <h3>Brenda Hanley</h3>
-      <p>Brenda is a research associate at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. Her research involves adapting or inventing new computational tools to aid resource managers in analyzing their data. She is trained in geography, mathematics, statistics, and computational biology. When not doing math or stats for wildlife bios, she is outside fully engrossed by the rocks.</p>
+      <p>Brenda is a Senior Research Associate at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. Her research involves adapting or inventing new computational tools to aid resource managers in analyzing their data. She is trained in geography, mathematics, statistics, and computational biology. When not doing math or stats for wildlife bios, she is outside fully engrossed by the rocks.</p>
     </div>
   </div>
 
@@ -92,16 +82,6 @@ We invite all professionals with an interest in wildlife health surveillance to 
       <p>Yitong is a PhD student in epidemiology at the University of California - Davis. Her academic pursuits reflect her strong interest in disease modeling in wildlife populations. Yitong’s current research focuses on quantifying the risk of exposure and spread of chronic wasting disease in California during its early outbreak phase using quantitative risk assessment and agent-based models. Her work aims to comprehensively evaluate the risks associated with hunter movements, guiding disease surveillance efforts to prioritize high-risk hunting zones and enhance education and awareness campaigns in those areas.</p>
     </div>
   </div>
-
-  <div class="card">
-    <div class="card-image">
-      <img src="/assets/Adnane.jpg" alt="image of Adnane Labbaci">
-    </div>
-    <div class="card-content">
-      <h3>Adnane Labbaci</h3>
-      <p>Studying forestry at the National School of Forestry Engineers and holding a PhD in GIS and remote sensing from the University Ibn Zohr in Morocco, <a href="https://www.researchgate.net/profile/Adnane-Labbaci" target="_blank">Adnane</a> has worked for twelve years at the High Commission of Water Forests and Combating Desertification of Morocco, implementing government decisions on forests and watershed management, desertification mitigation and climate change adaptation. In addition, he has developed a regional geospatial database to establish baselines for forest ecosystems assessment and methodology to combat desertification. His professional interests are in research for sustainable development of natural resources especially forest ecosystems, combating desertification, Smart agriculture, partnership and climate change adaptation and mitigation. He spent 1 ½ years at University of California - Davis on a fellowship with the Humphrey Program, where he learned more about monitoring climate change effects on natural resources and geospatial processes to improve the sustainability of forests, to sequestrate carbon and mitigate climate change effects. Adnane is a professor at the Faculty of Sciences of Agadir where he teaches GIS, remote sensing and Spatial Data Infrastructure, supervises master and PhD theses, and coordinates many projects related to earth observation and spatial data infrastructures. He is also a Postdoc Fulbright scholar.</p>
-    </div>
-</div>
 
   <div class="card">
     <div class="card-image">
@@ -141,16 +121,6 @@ We invite all professionals with an interest in wildlife health surveillance to 
       <h3>Krysten Schuler</h3>
       <p>Krysten is a wildlife disease ecologist and director of the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. She is interested in the health of wildlife populations and associations with human and domestic animal activities and diseases. She focuses on conserving free-ranging species for current and future generations use and enjoyment using a multi-disciplinary approach involving risk analysis, field studies, human dimensions, and laboratory experiments.</p>
     </div>
-  </div>
-
-  <div class="card">
-      <div class="card-image">
-        <img src="/assets/ssernaker.jpg" alt="image of Sarah Sernaker">
-      </div>
-      <div class="card-content">
-        <h3>Sarah Sernaker</h3>
-        <p>Sarah is a data engineer at the <a href="https://cwhl.vet.cornell.edu/" target="_blank">Cornell Wildlife Health Lab</a> at Cornell University. She maintains the CWD Warehouse database, builds web-based statistical tools for data analysis, and provides technical guidance to agencies and collaborators. With an extensive background as a statistician, she offers expertise on collecting, storing, cleaning, analyzing, and visualizing data.
-      </div>
   </div>
 
   <div class="card">
