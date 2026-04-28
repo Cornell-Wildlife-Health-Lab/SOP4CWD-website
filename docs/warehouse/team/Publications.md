@@ -12,6 +12,8 @@ The SOP4CWD collaboration publishes its work in the form of peer-reviewed manusc
 ### Risk-Weighted Surveillance Quotas Model
 * Schuler KL, Hollingshead NA, Heerkens S, Kelly JD, Hurst JE, Abbott RC, Hanley BJ, Collins E, Hynes KP. [A "hazard model" using risk-weighted surveillance for first detection of chronic wasting disease](https://doi.org/10.1016/j.prevetmed.2025.106599). _Preventive Veterinary Medicine_. 
 
+### Hazard Model 2.0
+* Thompson N, Sernaker S, Hanley B, Cook J, Hollingshead N, Hubbs A, Reed H, LaHue N, Lieske C, Gillin C, Reeder A, Munk B, Wood L, Justice-Allen A, Duvuvuei O, Crockett E, Wycoff S, DeVivo M, Westacott H, Cook W, Heffelfinger L, Wild M, Epps C, Walsh D, Nelson C, Thacker C, Beckmen K, Schuler K. The Hazard Model 2.0: Extension of a risk-based chronic wasting disease surveillance model to the western United States and Canada. _In preparation_ 
 
 ### Sample Allocation Model
 *  Wang J, Hanley B, Thompson N, Gong Y, Walsh D, Gonzalez-Crespo C, Huang Y, Booth J, Caudell J, Miller L, Schuler K. 2025. [Strategic planning of prevention and surveillance for emerging diseases and invasive species](https://doi.org/10.1073/pnas.2507202122). _PNAS_. 
@@ -30,6 +32,9 @@ The SOP4CWD collaboration publishes its work in the form of peer-reviewed manusc
 
 ### Home Range Contamination Model
 * Walter W, Hanley B, Them C, Mitchell C, Kelly J, Grove D, Hollingshead N, Abbott R, Schuler K. 2024. [Predicting the odds of chronic wasting disease with the Habitat Risk software](https://doi.org/10.1016/j.sste.2024.100650). _Spatio and Spatio-Temporal Epidemiology_. 
+
+### CWD Sentinel
+* Gonzalez-Crespo C, Schuler K, Hanley B, Hollingshead N, Middaugh C, Ballard J, Clemons B, Kelly J, Harms T, Caudell J, Benavidez Westrich K, McCallen E, Casey C, O'Brien L, Trudeau J, Stewart C, Carstensen M, Jennelle C, McKinley W, Hynes P, Stevens A, Miller L, Grove D, Storm D, Martinez-Lopez B. Fusing Bayesian inference and deep learning: A hybrid AI approach for predicting chronic wasting disease emergence and spread. _In revision_
 
 ### Positive Predictor Model
 * Ahmed MS, Hanley BJ, Mitchell CI, Abbott RC, Hollingshead NA, Booth JG, Guinness J, Jennelle CS, Hodel FH, Gonzalez-Crespo C, Middaugh CR, Ballard JR, Clemons B, Killmaster CH, Harms TM, Caudell JN, Benavidez Westrich KM, McCallen E, Casey C, O'Brien LM, Trudeau J, Stewart C, Carstensen M, McKinley W, Hynes KP, Stevens AE, Miller LA, Cook M, Myers RT, Shaw J, Tonkovich M, Kelly JD, Grove DM, Storm DJ, & Schuler KL. 2024. [Predicting chronic wasting disease in white-tailed deer at the county scale using machine learning](https://doi.org/10.1038/s41598-024-65002-7). _Scientific Reports_. 

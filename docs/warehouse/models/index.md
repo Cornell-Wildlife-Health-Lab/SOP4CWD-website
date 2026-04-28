@@ -10,7 +10,8 @@ The CWD Data Warehouse allows agencies to analyze their data using models, which
 ## Use Warehouse Models to: 
 
 ### Obtain Surveillance Quotas
-* The [**Risk-Weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModel.md) incorporates risk factors for CWD introduction to calculate surveillance targets by sub-administrative area. This model is particularly applicable to entities that have not yet detected CWD. Surveillance targets minimize unexplored risk. 
+* The [**Risk-Weighted Surveillance Quotas Model**](RiskWeightedSurveillanceQuotasModel.md) incorporates some risk factors for CWD introduction to calculate surveillance targets by sub-administrative area. This model is particularly applicable to entities that have not yet detected CWD. Surveillance targets minimize unexplored risk. 
+* The [**Hazard Model 2.0**](HazardModel2.md) incorporates many possible risk factors for CWD introduction to calculate surveillance targets by sub-administrative area. 
 * The [**Sample Allocation Model**](SampleAllocationModel.md) uses optimal control theory to distribute sampling resources across a wide jurisdiction to minimize overall disease burden at the moment of first detection. It model is particularly applicable to entities that have not yet detected CWD, but can be used in any set of sites that are thought to be disease-free. Surveillance targets constitute the best use of sampling dollars.
 * The [**Statistical Sample Quotas Using Clustering Model**](StatisticalSampleQuotas.md) is used to determine the sample size needed for each sub-administrative area without finding a positive case to declare a population free-from-disease given that host clustering. The sampling scheme is simple random sampling. Surveillance targets produce statistically robust investigations of disease at the population scale.
 * The [**Efficient Sample Size Calculator**](EfficientSampleSizeCalculator.md) is used to determine the sample size needed to declare a population free-from-disease given that hosts group together (and share their diseases) on the landscape. Sampling schemes include simple random sampling, high-harvest sampling, and two-stage cluster sampling. Surveillance targets produce statistically robust investigations of disease at the population scale. 
@@ -27,6 +28,7 @@ The CWD Data Warehouse allows agencies to analyze their data using models, which
 * The [**Per-Sample Cost Analysis Model**](PerSampleCost.md) collapses agency expense data into an average cost to determine disease status of a single host in by sub-administrative area by season-year. 
 
 ### Predict Outbreaks
+* [**CWD Sentinel**](CWDSentinel.md) uses all SOP4CWD data in conjunction with deep learning and INLA to predict which sub-administrative areas may (1) turn CWD-positive for the first time, or (2) experience rapid spread of existing infection.
 * [**Positive Predictor Model**](PositivePredictorModel.md) uses all SOP4CWD data in conjunction with machine learning to predict which sub-administrative areas may turn CWD-positive next. 
 
 ### Explore an Outbreak
