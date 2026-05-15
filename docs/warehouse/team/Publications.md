@@ -14,6 +14,7 @@ The SOP4CWD collaboration publishes its work in the form of peer-reviewed manusc
 
 ### Hazard Model 2.0
 * Thompson N, Sernaker S, Hanley B, Cook J, Hollingshead N, Hubbs A, Reed H, LaHue N, Lieske C, Gillin C, Reeder A, Munk B, Wood L, Justice-Allen A, Duvuvuei O, Crockett E, Wycoff S, DeVivo M, Westacott H, Cook W, Heffelfinger L, Wild M, Epps C, Walsh D, Nelson C, Thacker C, Beckmen K, Schuler K. The Hazard Model 2.0: Extension of a risk-based chronic wasting disease surveillance model to the western United States and Canada. _In preparation_ 
+* Sernaker S, Hollinghsead N, Hanley B, Schuler K. 2026. [Transition probabilities for chronic wasting disease (CWD) by county across the United States](https://doi.org/10.7298/an2z-1j51) [Software]. Cornell University Library eCommons Repository.
 
 ### Sample Allocation Model
 *  Wang J, Hanley B, Thompson N, Gong Y, Walsh D, Gonzalez-Crespo C, Huang Y, Booth J, Caudell J, Miller L, Schuler K. 2025. [Strategic planning of prevention and surveillance for emerging diseases and invasive species](https://doi.org/10.1073/pnas.2507202122). _PNAS_. 

@@ -24,6 +24,9 @@ The Outbreak Response Model is used after the first case of CWD is confirmed to 
 ## Outputs
 * An integrated risk surface meshing contact probabilities with resource selection functions to view where the index case may have spread disease to other free-ranging hosts
 
+<center>![Outbreak Response Outputs](../../assets/Outbreak.png)
+<figcaption>An example containmnent zone from the Outbreak Response Model.</figcaption></center>
+
 ## More Information
 For more information, go to the [CWD Data Warehouse User Manual: Outbreak Response Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/outbreak-response.html){target="_blank"}.
 
