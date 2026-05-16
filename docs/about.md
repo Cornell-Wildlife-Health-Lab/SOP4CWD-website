@@ -7,7 +7,12 @@ description: About the Effort
 The Surveillance Optimization Project for Chronic wasting disease (SOP4CWD) began in 2020 to address the needs of wildlife agencies across North America responding to the challenges posed by chronic wasting disease (CWD). It is since grown to include 26 wildlife agencies across North America, with over 200 users.
 
 ## What is CWD? 
-CWD is a fatal disease of deer and other cervid species native to North America. Since 1967, when the disease was first discovered in captive mule deer in Colorado, CWD has continued to spread through free-ranging and captive cervids across the continent. To protect free-ranging cervid populations and support long-standing cultural hunting practices, wildlife agencies are trying to slow the spread of the disease and prevent introduction to new areas. However, these goals have proven extremely difficult.
+CWD is a fatal disease of deer and other cervid species native to North America. Since 1967, when the disease was first discovered in captive mule deer in Colorado, CWD has continued to spread through free-ranging and captive cervids across the continent. 
+
+<center>![CWD Sentinel](../../assets/CWDSpread.pptx)
+<figcaption>The spread of CWD across the US using publicly available detection data.</figcaption></center>
+
+To protect free-ranging cervid populations and support long-standing cultural hunting practices, wildlife agencies are trying to slow the spread of the disease and prevent introduction to new areas. However, these goals have proven extremely difficult.
 
 ## Responding to the Challenge
 Disease surveillance, including efforts to detect new introductions quickly and measure changes in prevalence in areas where the disease exists, is an essential component of disease response and management efforts. 
