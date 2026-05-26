@@ -9,7 +9,8 @@ The Surveillance Optimization Project for Chronic wasting disease (SOP4CWD) bega
 ## What is CWD? 
 CWD is a fatal disease of deer and other cervid species native to North America. Since 1967, when the disease was first discovered in captive mule deer in Colorado, CWD has continued to spread through free-ranging and captive cervids across the continent. 
 
-<iframe src="https://cornellprod-my.sharepoint.com/personal/bjh262_cornell_edu/_layouts/15/Doc.aspx?sourcedoc={668010cd-e7f2-49fc-8293-1d2b40ea0182}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<center>![Animation of CWD spread since 2000 in United States](assets/cwd_spread.gif)
+<figcaption>Documented CWD spread in the United States since the year 2000.</figcaption></center>
 
 To protect free-ranging cervid populations and support long-standing cultural hunting practices, wildlife agencies are trying to slow the spread of the disease and prevent introduction to new areas. However, these goals have proven extremely difficult.
 
