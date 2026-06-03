@@ -4,7 +4,6 @@ description: Model Page on Website
 ---
 
 # Hazard Model 2.0
-*In development*
 
 The Hazard Model 2.0 incorporates many possible risk factors for CWD to calculate surveillance quotas per sub-administrative area. Surveillance targets can be used by agencies to plan upcoming surveillance across a region, state, province, or nation.
 
