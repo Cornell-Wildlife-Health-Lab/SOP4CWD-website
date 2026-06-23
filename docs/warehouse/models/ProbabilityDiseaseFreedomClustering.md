@@ -25,7 +25,7 @@ Unlike the [**Simple Undetected Prevalence Estimator**](SimpleUndetectedPrevalen
 * The probability that each sub-administrative area is disease-free  
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Probability of Disease Freedom Using Clustering Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/DiseaseFreedomUsingClustering.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Probability of Disease Freedom Using Clustering Model](https://help.cwd-data.org/DiseaseFreedomUsingClustering.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Probability of Disease Freedom Using Clustering Model](https://github.com/Cornell-Wildlife-Health-Lab/probability-of-disease-freedom-using-clustering){target="_blank"}.

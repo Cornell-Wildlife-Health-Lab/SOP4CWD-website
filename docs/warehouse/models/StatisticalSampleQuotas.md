@@ -25,7 +25,7 @@ The Statistical Sample Quotas Using Clustering Model estimates the sample size n
 <figcaption>Example of model output showing a sample size requirement.</figcaption></center>
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Statistical Sample Quotas Using Clustering Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/sample-size-quotas.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Statistical Sample Quotas Using Clustering Model](https://help.cwd-data.org/sample-size-quotas.html){target="_blank"}.
 
 ## Code and Docker Image
 To view the code once deployed, go to the [GitHub Repository: Statistical Sample Quotas Using Clustering Model](https://github.com/Cornell-Wildlife-Health-Lab/statistical-sample-quotas-using-clustering-model){target="_blank"}. To view the docker image, go to the [Docker Hub: cwhl/statistical-sample-size-with-clustering-model](https://hub.docker.com/r/cwhl/statistical-sample-size-with-clustering-model){target="_blank"}.

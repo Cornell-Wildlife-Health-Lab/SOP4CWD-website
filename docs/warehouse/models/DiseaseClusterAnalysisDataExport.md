@@ -28,7 +28,7 @@ The Disease Cluster Analysis Data Export allows users to pre-process CWD Warehou
 * A downloadable file with a summary of Warehouse-selected inputs to assist in model creation in the SaTScan software
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Disease Cluster Analysis Data Export](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/satscan.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Disease Cluster Analysis Data Export](https://help.cwd-data.org/satscan.html){target="_blank"}.
 
 ## Code and Docker Image
 To view the code, go to the [GitHub Repository: Disease Cluster Analysis Data Export](https://github.com/Cornell-Wildlife-Health-Lab/disease-cluster-analysis-data-export-v2){target="_blank"}. To view the docker image, go to the [Docker Hub: cwhl/disease-cluster-analysis-data-export-v2](https://hub.docker.com/r/cwhl/disease-cluster-analysis-data-export-v2){target="_blank"}.

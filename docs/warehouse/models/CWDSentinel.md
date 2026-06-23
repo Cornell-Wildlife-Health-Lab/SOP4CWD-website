@@ -31,7 +31,7 @@ The CWD Sentinel uses all SOP4CWD data in conjunction with deep learning and INL
 
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: CWD Sentinel](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/CWDSentinel.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: CWD Sentinel](https://help.cwd-data.org/CWDSentinel.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Positive Predictor Model](https://github.com/Cornell-Wildlife-Health-Lab/CWD-Sentinel){target="_blank"}.

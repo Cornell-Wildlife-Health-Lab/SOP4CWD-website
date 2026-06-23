@@ -18,7 +18,7 @@ The Spread Model Data Export summarizes and formats sample data from the CWD Dat
 * A downloadable file of pre-processed data for immediate upload into the external spatial diffusion tool  
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Spread Model Data Export](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/spatialdiffusion.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Spread Model Data Export](https://help.cwd-data.org/spatialdiffusion.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Spread Model Data Export](https://github.com/Cornell-Wildlife-Health-Lab/spread-model-data-export){target="_blank"}.

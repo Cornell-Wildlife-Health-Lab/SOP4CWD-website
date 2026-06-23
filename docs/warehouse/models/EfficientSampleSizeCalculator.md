@@ -25,7 +25,7 @@ The Efficient Sample Size Calculator simulates the sample size needed to declare
 <figcaption>Example output from the Efficient Sample Size Calculator.</figcaption></center>
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Efficient Sample Size Calculator](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/sample-size.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Efficient Sample Size Calculator](https://help.cwd-data.org/sample-size.html){target="_blank"}.
 
 ## Code
 To view the code, go to the [GitHub Repository: Efficient Sample Size Calculator](https://github.com/Cornell-Wildlife-Health-Lab/efficient-sample-size-calculator){target="_blank"}.

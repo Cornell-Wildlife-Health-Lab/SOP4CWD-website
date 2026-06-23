@@ -48,7 +48,7 @@ The Sample Allocation Model (SAM) uses optimal control theory to identify an opt
 
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Sample Allocation Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/SAM.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Sample Allocation Model](https://help.cwd-data.org/SAM.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Sample Allocation Model](https://github.com/Cornell-Wildlife-Health-Lab/sample-allocation-model){target="_blank"}.

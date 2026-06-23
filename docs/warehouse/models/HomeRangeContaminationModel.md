@@ -22,7 +22,7 @@ The Home Range Contamination Model is used to determine which home ranges are li
 * A map showing the probability by age and sex segment that any given home range will harbor a CWD positive host
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Home Range Contamination Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/habitatrisk.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Home Range Contamination Model](https://help.cwd-data.org/habitatrisk.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Home Range Contamination Model](https://github.com/Cornell-Wildlife-Health-Lab/home-range-contamination-model){target="_blank"}.

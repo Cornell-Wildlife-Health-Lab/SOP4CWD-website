@@ -26,7 +26,7 @@ Unlike the [**Simple Undetected Prevalence Estimator**](SimpleUndetectedPrevalen
 * A downloadable file of processed sample data for batch upload in the SpeedGoat Estimation Tool 
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Prevalence Estimator Data Export](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/speedgoat.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Prevalence Estimator Data Export](https://help.cwd-data.org/speedgoat.html){target="_blank"}.
 
 ## Code and Docker Image
 To view the code, go to the [GitHub Repository: Prevalence Estimator Data Export](https://github.com/Cornell-Wildlife-Health-Lab/prevalence-estimator-data-export-v2){target="_blank"}. To view the docker image, go to the [Docker Hub: cwhl/prevalence-estimator-data-export-v2](https://hub.docker.com/r/cwhl/prevalence-estimator-data-export-v2){target="_blank"}.

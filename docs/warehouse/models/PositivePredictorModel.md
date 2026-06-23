@@ -27,7 +27,7 @@ The Positive Predictor Model uses machine learning in conjunction with all avail
 * A map containing the predictions of CWD emergence for each sub-administrative area in your administrative area
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Positive Predictor Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/MLpredictor.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Positive Predictor Model](https://help.cwd-data.org/MLpredictor.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Positive Predictor Model](https://github.com/Cornell-Wildlife-Health-Lab/positive-predictor-model){target="_blank"}.

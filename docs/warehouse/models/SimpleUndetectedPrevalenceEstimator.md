@@ -23,7 +23,7 @@ Unlike the [**Prevalence Estimator Data Export**](PrevalenceEstimatorDataExport.
 * An estimate of the underlying prevalence based on a single year of sampling intensity 
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Simple Undetected Prevalence Estimator](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/upper.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Simple Undetected Prevalence Estimator](https://help.cwd-data.org/upper.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Simple Undetected Prevalence Estimator](https://github.com/Cornell-Wildlife-Health-Lab/simple-undetected-prevalence-estimator){target="_blank"}.

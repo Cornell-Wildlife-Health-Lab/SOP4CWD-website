@@ -37,7 +37,7 @@ The Risk-Weighted Surveillance Quotas Model incorporates risk factors for CWD, i
 <figcaption>Mock risk scoring and sampling quotas produced by the Risk Weighted Surveillance Quotas Model</figcaption></center>
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Risk-Weighted Surveillance Quotas Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/risk-weighted-surveillance-quotas.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Risk-Weighted Surveillance Quotas Model](https://help.cwd-data.org/risk-weighted-surveillance-quotas.html){target="_blank"}.
 
 ## Code
 To view the code, go to the [GitHub Repository: Risk-Weighted Surveillance Quotas Model](https://github.com/Cornell-Wildlife-Health-Lab/risk-weighted-surveillance-quotas-model){target="_blank"}.

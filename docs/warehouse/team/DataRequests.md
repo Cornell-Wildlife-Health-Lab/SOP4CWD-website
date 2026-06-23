@@ -13,7 +13,7 @@ Data obtained from wildlife agencies at the start of SOP4CWD was published as op
 
 
 ## Request Access to Private Recent Data
-Partnering agencies continue to generate and push new CWD data into the CWD Data Warehouse. Researchers may use a <a href="https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/terms-and-conditions.html#research-approval-plan" target="_blank">Researcher Request Form</a> to request access to these data to conduct CWD research or develop new CWD models.
+Partnering agencies continue to generate and push new CWD data into the CWD Data Warehouse. Researchers may use a <a href="https://help.cwd-data.org/terms-and-conditions.html#research-approval-plan" target="_blank">Researcher Request Form</a> to request access to these data to conduct CWD research or develop new CWD models.
 
 Interested researchers must submit a research proposal that describes the project, including the research objective and methods, specific data required, a data security plan, and expected outcomes. Proposals then go through an approval process involving the source agency. Once a proposal is approved by the source agency, Warehouse administrators will extract the data from the Warehouse and securely transmit it to the researcher. Researchers are required to adhere to agreement with the source entity that defines how the data can and cannot be used.
 

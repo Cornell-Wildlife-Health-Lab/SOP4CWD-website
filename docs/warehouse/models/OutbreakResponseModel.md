@@ -28,7 +28,7 @@ The Outbreak Response Model is used after the first case of CWD is confirmed to 
 <figcaption>An example containmnent zone from the Outbreak Response Model.</figcaption></center>
 
 ## More Information
-For more information, go to the [CWD Data Warehouse User Manual: Outbreak Response Model](https://pages.github.coecis.cornell.edu/CWHL/CWD-Data-Warehouse/outbreak-response.html){target="_blank"}.
+For more information, go to the [CWD Data Warehouse User Manual: Outbreak Response Model](https://help.cwd-data.org/outbreak-response.html){target="_blank"}.
 
 ## Code
 To view the code once deployed, go to the [GitHub Repository: Outbreak Response Model](https://github.com/Cornell-Wildlife-Health-Lab/outbreak-response-model){target="_blank"}.
