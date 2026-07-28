@@ -14,10 +14,10 @@ The SOP4CWD collaboration publishes its work in the form of peer-reviewed manusc
 
 ### Hazard Model 2.0
 * Thompson N, Sernaker S, Hanley B, Cook J, Hollingshead N, Hubbs A, Reed H, LaHue N, Lieske C, Gillin C, Reeder A, Munk B, Wood L, Justice-Allen A, Duvuvuei O, Crockett E, Wycoff S, DeVivo M, Westacott H, Cook W, Heffelfinger L, Wild M, Epps C, Walsh D, Nelson C, Thacker C, Beckmen K, Schuler K. The Hazard Model 2.0: Extension of a risk-based chronic wasting disease surveillance model to the western United States and Canada. _In preparation_ 
-* Sernaker S, Hollinghsead N, Hanley B, Schuler K. 2026. [Transition probabilities for chronic wasting disease (CWD) by county across the United States](https://doi.org/10.7298/an2z-1j51) [Software]. Cornell University Library eCommons Repository.
+* Sernaker S, Hollinghsead N, Hanley B, Schuler K. 2026. [Transition probabilities for chronic wasting disease (CWD) by county across the United States](https://ecommons.cornell.edu/entities/publication/037d3af6-59cc-432d-83d7-46e0c53c3890) [Software]. Cornell University Library eCommons Repository.
 
 ### Sample Allocation Model
-*  Wang J, Hanley B, Thompson N, Gong Y, Walsh D, Gonzalez-Crespo C, Huang Y, Booth J, Caudell J, Miller L, Schuler K. 2025. [Strategic planning of prevention and surveillance for emerging diseases and invasive species](https://doi.org/10.1073/pnas.2507202122). _PNAS_. 
+*  Wang J, Hanley B, Thompson N, Gong Y, Walsh D, Gonzalez-Crespo C, Huang Y, Booth J, Caudell J, Miller L, Schuler K. 2025. [Strategic planning of prevention and surveillance for emerging diseases and invasive species](https://doi.org/10.1073/pnas.2507202122). _Proceedings of the National Academies of Sciences_. 
 
 ### Efficient Sample Size Calculator 
 * Booth JG, Hanley BJ, Hodel FH, Jennelle CS, Guinness J, Them CE, Mitchell CI, Ahmed MS, Schuler KL. 2024. [Sample size for estimating disease prevalence in free-ranging wildlife populations: A Bayesian modeling approach](https://doi.org/10.1007/s13253-023-00578-7). _Journal of Agricultural, Biological, and Environmental Sciences_.
@@ -48,3 +48,7 @@ Code used in the CWD Data Warehouse is shared openly under and MIT license throu
 
 ## Open Source Datasets
 * Schuler K, Hanley B, Abbott RC, Dayan DB, Hollingshead N, Ballard JR, Middaugh CR, Cunningham M, Clemons B, Sayler K, Kelly J, Killmaster CH, Harms T, Ruden RM, Caudell J, Westrich MB, McCallen E, Casey C, O'Brien LM, Trudeau J, Straka K, Stewart C, Carstensen M, McKinley W, Hynes K, Ableman A, Miller L, Cook M, Myers R, Shaw J, Van de Berg S, Tonkovich M, Grove, D, Storm DJ. 2024. [North American wildlife agency CWD testing and ancillary data (2000 – 2021; Version 2)](https://doi.org/10.7298/7txw-2681.2). _Cornell University Library eCommons Repository_.
+
+## Wildlife Agency Reports
+* Thompson N, Schuler K, Hanley B, Sernaker S, Cook J, Hollingshead N, Hubbs A, Reeder A, Gillin C, LaHue N, Lieske C, Reed H. Expanding the Surveillance Optimization Project for Chronic Wasting Disease to Western North America. Western Association of Fish and Wildlife Agencies Report. 
+<a href="../assets/HazardModel2.pdf" target="_blank">Open Agency Report</a>
