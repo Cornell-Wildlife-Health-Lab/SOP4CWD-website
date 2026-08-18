@@ -17,7 +17,9 @@ plugins:
   - privacy
 nav:
   - Home: index.md
-  - About: about.md
+  - About:
+    - about.md
+    - Video Series: videos.md
   - CWD Data Warehouse:
     - warehouse/index.md
     - Data Collections: warehouse/DataCollections.md
