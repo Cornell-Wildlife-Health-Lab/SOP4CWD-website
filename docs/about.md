@@ -8,7 +8,7 @@ The Surveillance Optimization Project for Chronic wasting disease (SOP4CWD) bega
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3UFrDuMLZVY?list=PLV3H1w0KF9do" title="SOP4CWD and the CWD Data Warehouse Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<figcaption>An overview of SOP4CWD and the CWD Data Warehouse. See the <a href="../videos/">full video series</a> for more.</figcaption>
+<figcaption>An overview of SOP4CWD and the CWD Data Warehouse. See the <a href="../intro-videos/">full video series</a> for more.</figcaption>
 </center>
 
 ## What is CWD? 
