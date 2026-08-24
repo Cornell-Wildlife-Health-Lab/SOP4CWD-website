@@ -6,6 +6,31 @@ description: This is a description of the page.
 # The CWD Data Warehouse
 The [CWD Data Warehouse](https://cwd-data.org/login){target="_blank"} is an online platform for CWD data management and synthesis, surveillance planning, and information sharing across jurisdictional boundaries. It is available at no cost to wildlife agencies representing states (US and Mexico), provinces (Canada), or indigenous nations (North America). 
 
+<div class="video-promo-card">
+  <!-- Left Side: Copy and Action Button -->
+  <div class="video-promo-info">
+    <h3>New to the CWD Data Warehouse?</h3>
+    <p>Watch our 8-part introductory video series for a guided tour of the platform's core architecture, data collections, bulk import options, and analytical models.</p>
+    <a href="../intro-videos/" class="video-promo-btn">
+      Watch Video Series →
+    </a>
+  </div>
+
+  <!-- Right Side: Clickable Video Thumbnail with Play Button -->
+  <a href="../intro-videos/" class="video-promo-thumb-link" aria-label="Watch CWD Data Warehouse video series">
+    <div class="video-promo-thumb">
+      <!-- High-res YouTube thumbnail from Video 1 -->
+      <img src="https://img.youtube.com/vi/3UFrDuMLZVY/hqdefault.jpg" alt="SOP4CWD Video Series Preview" />
+      <div class="play-overlay">
+        <svg viewBox="0 0 68 48" width="48" height="34">
+          <path class="play-bg" d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="#212121" fill-opacity="0.85"></path>
+          <path d="M45 24L27 14v20z" fill="#ffffff"></path>
+        </svg>
+      </div>
+    </div>
+  </a>
+</div>
+
 ## A Collaborative Platform
 Developed in partnership with <a href="https://djcase.com/" target="_blank">DJ Case & Associates</a>, the CWD Data Warehouse facilitates interagency data-sharing, increases situational awareness, and informs wildlife health decision-making. This is accomplished through standardization of data across agencies, and through a carefully designed system that allows agencies to share critically important surveillance data with neighboring wildlife agencies, all while securing and restricting access to sensitive or confidential data. 
 
