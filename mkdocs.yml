@@ -17,7 +17,9 @@ plugins:
   - privacy
 nav:
   - Home: index.md
-  - About: about.md
+  - About:
+    - about.md
+    - Introductory Video Series: intro-videos.md
   - CWD Data Warehouse:
     - warehouse/index.md
     - Data Collections: warehouse/DataCollections.md
@@ -65,7 +67,7 @@ markdown_extensions:
       toc_depth: 2
   - attr_list
   - tables
-  - md_in_html      
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
