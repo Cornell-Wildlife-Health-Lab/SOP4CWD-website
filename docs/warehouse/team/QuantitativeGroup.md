@@ -8,7 +8,7 @@ description: This is a description of the page
 ## Join the Group
 We invite all professionals with an interest in wildlife health surveillance to meet us virtually at 3-4pm ET each Thursday. We discuss the most pressing questions in CWD data, prevention, surveillance, and management, then construct models to answer these questions. No previous statistical or modeling experience necessary! 
 <center>[Contact us to join](../../contact.md){.md-button .md-button--primary}</center>
-
+ 
 ## Meet the Quantitative Group
 
 <div class="card-grid">
@@ -65,7 +65,7 @@ We invite all professionals with an interest in wildlife health surveillance to 
       
   <div class="card">
     <div class="card-image">
-      <img src="/assets/Allen.jpg" alt="Image of Allen Herbst">
+      <img src="/assets/allen.jpg" alt="Image of Allen Herbst">
     </div>
     <div class="card-content">
       <h3>Allen Herbst</h3>
@@ -92,10 +92,9 @@ We invite all professionals with an interest in wildlife health surveillance to 
       <p>Yitong is a PhD student in epidemiology at the University of California - Davis. Her academic pursuits reflect her strong interest in disease modeling in wildlife populations. Yitong’s current research focuses on quantifying the risk of exposure and spread of chronic wasting disease in California during its early outbreak phase using quantitative risk assessment and agent-based models. Her work aims to comprehensively evaluate the risks associated with hunter movements, guiding disease surveillance efforts to prioritize high-risk hunting zones and enhance education and awareness campaigns in those areas.</p>
     </div>
   </div>
-  
-    <div class="card">
+  <div class="card">
     <div class="card-image">
-      <img src="/assets/Alyssa.JPG" alt="Image of Alyssa Kaganer">
+      <img src="/assets/alyssa.jpg" alt="Image of Alyssa Kaganer">
     </div>
     <div class="card-content">
       <h3>Alyssa Kaganer</h3>
@@ -123,7 +122,7 @@ We invite all professionals with an interest in wildlife health surveillance to 
     </div>
   </div>
   
-    <div class="card">
+  <div class="card">
     <div class="card-image">
       <img src="/assets/Chandika.png" alt="image of Chandika">
     </div>
