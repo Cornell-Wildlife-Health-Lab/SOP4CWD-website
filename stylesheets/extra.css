@@ -98,3 +98,220 @@ a:hover {
   }
 }
 
+
+
+/* Video Grid Layout */
+.video-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.video-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  padding: 1.25rem;
+  border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+  border-radius: 8px;
+  background-color: var(--md-default-bg-color, #fff);
+  align-items: center;
+}
+
+/* 2-column layout on desktop screens */
+@media (min-width: 768px) {
+  .video-card {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.video-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.video-info p {
+  margin: 0;
+  color: var(--md-default-fg-color--light, #555);
+  line-height: 1.5;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  height: 0;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: #000;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Featured Callout Card / Banner */
+.video-promo-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  border-left: 4px solid var(--md-typeset-a-color, #0288d1);
+  background-color: var(--md-code-bg-color, #f5f5f5);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .video-promo-card {
+    grid-template-columns: 1.2fr 0.8fr;
+  }
+}
+
+.video-promo-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.video-promo-info p {
+  margin-bottom: 1.25rem;
+  color: var(--md-default-fg-color--light, #555);
+  line-height: 1.5;
+}
+
+.video-promo-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  font-weight: 600;
+  color: #ffffff !important;
+  background-color: var(--md-typeset-a-color, #0288d1);
+  border-radius: 4px;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.video-promo-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+/* Featured Callout Card / Banner */
+.video-promo-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+  border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+  background-color: var(--md-code-bg-color, #f8f9fa);
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .video-promo-card {
+    grid-template-columns: 1.3fr 0.7fr;
+  }
+}
+
+.video-promo-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.15rem;
+}
+
+.video-promo-info p {
+  margin-bottom: 0.85rem;
+  color: var(--md-default-fg-color--light, #555);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.video-promo-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #ffffff !important;
+  background-color: #34495e; /* Matches dark slate theme button */
+  border-radius: 4px;
+  text-decoration: none !important;
+  transition: opacity 0.2s ease;
+}
+
+.video-promo-btn:hover {
+  opacity: 0.85;
+}
+
+
+
+/* Clickable Video Thumbnail Styling */
+.video-promo-thumb-link {
+  display: block;
+  text-decoration: none !important;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.video-promo-thumb {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  height: 0;
+  background-color: #000;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+}
+
+.video-promo-thumb img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+/* Play Button Overlay */
+.play-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: transform 0.2s ease;
+}
+
+.play-overlay svg .play-bg {
+  transition: fill 0.2s ease;
+}
+
+/* Hover effects */
+.video-promo-thumb-link:hover .video-promo-thumb img {
+  transform: scale(1.03);
+  opacity: 0.9;
+}
+
+.video-promo-thumb-link:hover .play-overlay {
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.video-promo-thumb-link:hover .play-overlay svg .play-bg {
+  fill: #cc181e; /* YouTube red accent on hover */
+  fill-opacity: 1;
+}
