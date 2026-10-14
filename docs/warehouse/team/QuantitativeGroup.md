@@ -104,7 +104,7 @@ We invite all professionals with an interest in wildlife health surveillance to 
   
   <div class="card">
     <div class="card-image">
-      <img src="/assets/HunterKindlin.JPG" alt="Image of Hunter Kindlin">
+      <img src="/assets/hunter-kindlin.jpg" alt="Image of Hunter Kindlin">
     </div>
     <div class="card-content">
       <h3>Hunter Kindlin</h3>
