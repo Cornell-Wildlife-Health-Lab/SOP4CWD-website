@@ -94,7 +94,7 @@ We invite all professionals with an interest in wildlife health surveillance to 
   </div>
   <div class="card">
     <div class="card-image">
-      <img src="/assets/alyssa.jpg" alt="Image of Alyssa Kaganer">
+      <img src="/assets/Alyssa.jpg" alt="Image of Alyssa Kaganer">
     </div>
     <div class="card-content">
       <h3>Alyssa Kaganer</h3>
